@@ -1,0 +1,69 @@
+{
+  "schema": "1.0",
+  "updated": "2026-08-08",
+  "note": "推荐信息源 = 跟踪该 Agent 的一手信源。priority 1=必追（官方发布） 2=重点（官方动态/社区） 3=参考",
+  "agents": {
+    "claude": [
+      {"name": "Anthropic News", "type": "官方博客", "url": "https://www.anthropic.com/news", "rss": null, "lang": "en", "priority": 1},
+      {"name": "Anthropic 文档 / Changelog", "type": "文档", "url": "https://docs.anthropic.com", "rss": null, "lang": "en", "priority": 1},
+      {"name": "X @AnthropicAI", "type": "X/Twitter", "url": "https://x.com/AnthropicAI", "rss": null, "lang": "en", "priority": 1},
+      {"name": "GitHub anthropics", "type": "GitHub", "url": "https://github.com/anthropics", "rss": null, "lang": "en", "priority": 2},
+      {"name": "Claude Code Challenge", "type": "Challenge", "url": "https://claudecodechallenge.com", "rss": null, "lang": "en", "priority": 2}
+    ],
+    "gemini": [
+      {"name": "Google AI Blog", "type": "官方博客", "url": "https://blog.google/technology/ai/", "rss": null, "lang": "en", "priority": 1},
+      {"name": "Google AI for Developers 博客", "type": "开发者博客", "url": "https://developers.googleblog.com", "rss": "https://developers.googleblog.com/feeds/posts/default", "lang": "en", "priority": 1},
+      {"name": "AI Studio / 模型版本页", "type": "文档", "url": "https://ai.google.dev", "rss": null, "lang": "en", "priority": 1},
+      {"name": "X @GoogleAI", "type": "X/Twitter", "url": "https://x.com/GoogleAI", "rss": null, "lang": "en", "priority": 2},
+      {"name": "GitHub google-gemini", "type": "GitHub", "url": "https://github.com/google-gemini", "rss": null, "lang": "en", "priority": 2}
+    ],
+    "codex": [
+      {"name": "OpenAI Blog", "type": "官方博客", "url": "https://openai.com/blog", "rss": null, "lang": "en", "priority": 1},
+      {"name": "OpenAI Developers (Codex 文档)", "type": "文档", "url": "https://developers.openai.com/codex/", "rss": null, "lang": "en", "priority": 1},
+      {"name": "X @OpenAI", "type": "X/Twitter", "url": "https://x.com/OpenAI", "rss": null, "lang": "en", "priority": 1},
+      {"name": "GitHub openai/codex", "type": "GitHub", "url": "https://github.com/openai/codex", "rss": null, "lang": "en", "priority": 1},
+      {"name": "OpenAI Changelog", "type": "Changelog", "url": "https://help.openai.com/en/articles/6825453-changelog", "rss": null, "lang": "en", "priority": 2}
+    ],
+    "doubao": [
+      {"name": "火山引擎博客", "type": "官方博客", "url": "https://www.volcengine.com/blog", "rss": null, "lang": "zh", "priority": 1},
+      {"name": "火山引擎文档", "type": "文档", "url": "https://www.volcengine.com/docs", "rss": null, "lang": "zh", "priority": 1},
+      {"name": "扣子 Coze 官网", "type": "Agent 平台", "url": "https://www.coze.cn", "rss": null, "lang": "zh", "priority": 2},
+      {"name": "豆包微信公众号", "type": "公众号", "url": "https://mp.weixin.qq.com/", "rss": null, "lang": "zh", "priority": 2},
+      {"name": "GitHub volcengine", "type": "GitHub", "url": "https://github.com/volcengine", "rss": null, "lang": "en", "priority": 3}
+    ],
+    "qwen": [
+      {"name": "Qwen 官方博客", "type": "官方博客", "url": "https://qwenlm.github.io/blog/", "rss": null, "lang": "en", "priority": 1},
+      {"name": "通义千问 / 百炼文档", "type": "文档", "url": "https://help.aliyun.com/zh/model-studio", "rss": null, "lang": "zh", "priority": 1},
+      {"name": "X @Alibaba_Qwen", "type": "X/Twitter", "url": "https://x.com/Alibaba_Qwen", "rss": null, "lang": "en", "priority": 1},
+      {"name": "GitHub QwenLM", "type": "GitHub", "url": "https://github.com/QwenLM", "rss": null, "lang": "en", "priority": 1},
+      {"name": "阿里云开发者社区", "type": "社区", "url": "https://developer.aliyun.com/group/qwen", "rss": null, "lang": "zh", "priority": 2}
+    ],
+    "yuanbao": [
+      {"name": "腾讯云文档（混元大模型）", "type": "文档", "url": "https://cloud.tencent.com/document/product/1729", "rss": null, "lang": "zh", "priority": 1},
+      {"name": "腾讯混元公众号", "type": "公众号", "url": "https://mp.weixin.qq.com/", "rss": null, "lang": "zh", "priority": 2},
+      {"name": "GitHub Tencent", "type": "GitHub", "url": "https://github.com/Tencent", "rss": null, "lang": "en", "priority": 2},
+      {"name": "腾讯云开发者社区", "type": "社区", "url": "https://cloud.tencent.com/developer", "rss": null, "lang": "zh", "priority": 3}
+    ],
+    "kimi": [
+      {"name": "月之暗面公众号", "type": "公众号", "url": "https://mp.weixin.qq.com/", "rss": null, "lang": "zh", "priority": 1},
+      {"name": "Moonshot 开放平台文档", "type": "文档", "url": "https://platform.moonshot.cn/docs", "rss": null, "lang": "zh", "priority": 1},
+      {"name": "X @MoonshotAI", "type": "X/Twitter", "url": "https://x.com/MoonshotAI", "rss": null, "lang": "en", "priority": 2},
+      {"name": "GitHub MoonshotAI", "type": "GitHub", "url": "https://github.com/MoonshotAI", "rss": null, "lang": "en", "priority": 2},
+      {"name": "K2 模型页", "type": "模型", "url": "https://k2.kimi.com", "rss": null, "lang": "en", "priority": 2}
+    ],
+    "minimax": [
+      {"name": "MiniMax 开放平台", "type": "平台/文档", "url": "https://platform.minimaxi.com", "rss": null, "lang": "zh", "priority": 1},
+      {"name": "MiniMax 公众号", "type": "公众号", "url": "https://mp.weixin.qq.com/", "rss": null, "lang": "zh", "priority": 2},
+      {"name": "X @MiniMax_AI", "type": "X/Twitter", "url": "https://x.com/MiniMax_AI", "rss": null, "lang": "en", "priority": 2},
+      {"name": "GitHub MiniMax-AI", "type": "GitHub", "url": "https://github.com/MiniMax-AI", "rss": null, "lang": "en", "priority": 2},
+      {"name": "海螺 AI", "type": "产品", "url": "https://hailuoai.com", "rss": null, "lang": "zh", "priority": 3}
+    ],
+    "hermes": [
+      {"name": "Hermes Agent 文档", "type": "文档", "url": "https://hermes-agent.nousresearch.com/docs", "rss": null, "lang": "en", "priority": 1},
+      {"name": "Nous Research 博客", "type": "官方博客", "url": "https://nousresearch.com/blog", "rss": null, "lang": "en", "priority": 1},
+      {"name": "X @NousResearch", "type": "X/Twitter", "url": "https://x.com/NousResearch", "rss": null, "lang": "en", "priority": 2},
+      {"name": "GitHub NousResearch", "type": "GitHub", "url": "https://github.com/NousResearch", "rss": null, "lang": "en", "priority": 1},
+      {"name": "Hermes 模型家族 (HF)", "type": "模型", "url": "https://huggingface.co/NousResearch", "rss": null, "lang": "en", "priority": 2}
+    ]
+  }
+}

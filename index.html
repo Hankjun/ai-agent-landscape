@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Agent 全景地图 · 跟踪全网 AI 智能体</title>
+<meta name="description" content="AI Agent 全景地图：可视化 Landscape、资讯时间轴、每 Agent 知识库——跟踪豆包/千问/元宝/Claude/Gemini/Kimi/MiniMax/Hermes Agent/Codex 等全部头部智能体">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <div class="brand">
+      <span class="brand-dot"></span>
+      <span class="brand-name">AI Agent 全景地图</span>
+      <span class="brand-sub">Landscape · Timeline · Knowledge</span>
+    </div>
+    <nav class="main-nav" id="mainNav">
+      <button class="nav-btn active" data-view="landscape">全景图 Landscape</button>
+      <button class="nav-btn" data-view="timeline">资讯时间轴</button>
+      <button class="nav-btn" data-view="knowledge">知识库</button>
+    </nav>
+  </div>
+</header>
+
+<main class="site-main">
+
+  <!-- ============ VIEW 1: LANDSCAPE ============ -->
+  <section id="view-landscape" class="view active">
+    <div class="view-head">
+      <h1>AI Agent 全景图</h1>
+      <p class="view-desc">全网头部 AI 智能体一图纵览 —— 点击节点查看详情，进入对应知识库</p>
+    </div>
+    <div class="landscape-layout">
+      <div class="landscape-canvas">
+        <svg id="landscapeSvg" viewBox="0 0 1100 700" role="img" aria-label="AI Agent 全景图"></svg>
+      </div>
+      <aside class="detail-panel" id="detailPanel">
+        <div class="detail-empty">
+          <div class="detail-empty-icon">◉</div>
+          <p>点击全景图中的节点，<br>查看该智能体的详情与入口</p>
+        </div>
+      </aside>
+    </div>
+    <div class="legend" id="legend"></div>
+  </section>
+
+  <!-- ============ VIEW 2: TIMELINE ============ -->
+  <section id="view-timeline" class="view">
+    <div class="view-head">
+      <h1>资讯时间轴</h1>
+      <p class="view-desc">各 Agent 的动态与发布，一手信息源标注 —— 跟踪全网智能体进展</p>
+    </div>
+    <div class="timeline-layout">
+      <div class="timeline-left">
+        <div class="filter-card">
+          <h3>按 Agent 筛选</h3>
+          <div class="filter-agents" id="filterAgents"></div>
+          <h3>按来源类型</h3>
+          <div class="filter-sources" id="filterSources"></div>
+        </div>
+        <div class="timeline-list" id="timelineList"></div>
+      </div>
+      <aside class="sources-panel">
+        <h3>推荐信息源</h3>
+        <p class="sources-hint">跟踪每个 Agent 必看的一手信源（官方发布优先级最高）</p>
+        <div id="sourcesList"></div>
+      </aside>
+    </div>
+  </section>
+
+  <!-- ============ VIEW 3: KNOWLEDGE ============ -->
+  <section id="view-knowledge" class="view">
+    <div id="knowledgeHome">
+      <div class="view-head">
+        <h1>智能体知识库</h1>
+        <p class="view-desc">每个智能体对应一个知识库：教程 · Challenge · 实战资源</p>
+      </div>
+      <div class="kb-grid" id="kbGrid"></div>
+    </div>
+    <div id="knowledgeDetail" class="hidden">
+      <div class="kb-detail-head">
+        <button class="back-btn" id="kbBack">← 返回知识库</button>
+        <div id="kbDetailMeta"></div>
+      </div>
+      <article class="kb-content" id="kbContent"></article>
+    </div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <span>AI Agent 全景地图 · 数据驱动 · 持续更新</span>
+  <span id="updatedStamp"></span>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

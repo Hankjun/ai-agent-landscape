@@ -1,0 +1,847 @@
+{
+  "schema": "1.0",
+  "updated": "2026-08-08",
+  "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
+  "items": [
+    {
+      "date": "2026-08-08",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "AIUsageBar – Track Claude, Codex, Cursor and Gemini Usage from the Mac Menu Bar",
+      "url": "https://www.aiusagebar.com",
+      "summary": "Article URL: https://www.aiusagebar.com Comments URL: https://news.ycombinator.com/item?id=49219523 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Claude Code: sessions can now message each other",
+      "url": "https://twitter.com/ClaudeDevs/status/2085817074816070014",
+      "summary": "Article URL: https://twitter.com/ClaudeDevs/status/2085817074816070014 Comments URL: https://news.ycombinator.com/item?id=49219485 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "I got a browser running inside the terminal and let Claude Code control it",
+      "url": "https://www.reddit.com/r/vibecoding/comments/1vifa9f/i_got_a_browser_running_inside_the_terminal_and/",
+      "summary": "Article URL: https://www.reddit.com/r/vibecoding/comments/1vifa9f/i_got_a_browser_running_inside_the_terminal_and/ Comments URL: https://news.ycombinator.com/item?id=49218268 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Message your other Claude Code sessions",
+      "url": "https://code.claude.com/docs/en/cross-session-messaging",
+      "summary": "Article URL: https://code.claude.com/docs/en/cross-session-messaging Comments URL: https://news.ycombinator.com/item?id=49217752 Points: 4 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Agent Plugins package your skills, tools, and more",
+      "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/",
+      "summary": "Agent Plugins 1.0.0 is a new, vendor-neutral directory specification—backed by Google, Amazon, Microsoft, and others—for packaging Agent Skills and MCP servers into a single portable unit. By standardizing the manifest (plugin.json) and utilizing a fixed directory layout, it elim",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Scaling AI Agent Infrastructure with the MCP Stateless updates",
+      "url": "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/",
+      "summary": "The 2026-07-28 Model Context Protocol (MCP) specification replaces legacy stateful constraints with a fully stateless core, enabling cloud-native horizontal scaling, serverless deployments, and standard round-robin load balancing. This architectural shift introduces standardized ",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "A unified API for AI model routing",
+      "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
+      "summary": "Google Cloud API Gateway now offers a model routing feature in Public Preview, allowing developers to dynamically route traffic to models like Gemini, Claude, or OpenAI OSS-GPT without hardcoding endpoints or managing open-source proxies. Developers can easily configure these rou",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Scaling real-time AI agents with session-aware load balancing",
+      "url": "https://developers.googleblog.com/scaling-real-time-ai-agents-with-session-aware-load-balancing/",
+      "summary": "Real-time AI agents break traditional request-response load balancing paradigms because they rely on long-lived, stateful bidirectional streams that obscure true server capacity. To solve this, developers must implement application-level session tracking directly within the runti",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Enable on-demand expertise with Agent Skills in Genkit Go",
+      "url": "https://developers.googleblog.com/enable-on-demand-expertise-with-agent-skills-in-genkit-go/",
+      "summary": "To prevent context window bloat and reduce token consumption, Genkit Go introduces Agent Skills based on a progressive disclosure architecture. Developers can package specialized instructions, scripts, and references into modular SKILL.md bundles where only the frontmatter metada",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Agent and Model Evaluations in Gemini Enterprise Agent Platform are now GA",
+      "url": "https://developers.googleblog.com/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/",
+      "summary": "Agent Platform's evaluation service is now generally available, providing developers with a unified engine to measure agent quality consistently across local development experiments and live production traffic. You can evaluate agents using over 20 pre-built metrics, DeepMind-bac",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "How to use Google microbenchmarks for evaluating TPU performance",
+      "url": "https://developers.googleblog.com/how-to-use-google-microbenchmarks-for-evaluating-tpu-performance/",
+      "summary": "Google's open-source TPU microbenchmark suite provides developers with granular performance metrics across Network, Compute, HBM, Host Transfer, and Attention components to validate real-world hardware capabilities. By leveraging these benchmarks to establish a Roofline model, en",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Run Ray on TPU, Part 2: Ray AI libraries",
+      "url": "https://developers.googleblog.com/run-ray-on-tpu-part-2-ray-ai-libraries/",
+      "summary": "This second installment explores how Ray’s higher-level libraries—Serve, Data, and Train—abstract the complexities of running AI workloads on Google's TPU slices. Ray Serve uses a simple topology configuration to correctly gang-schedule large multi-host models, while Ray Data eli",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "url": "https://huggingface.co/blog/allenai/tutormoments",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Baseten on Hugging Face Inference Providers 🔥",
+      "url": "https://huggingface.co/blog/baseten",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Grabette: an open system to record robot-manipulation data",
+      "url": "https://huggingface.co/blog/grabette",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-08-07",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Graphify – Less token use for Claude Code",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "summary": "Article URL: https://github.com/Graphify-Labs/graphify Comments URL: https://news.ycombinator.com/item?id=49217306 Points: 3 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-07",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Cowchat – Let Claude, Codex, and other agents talk to each other locally",
+      "url": "https://cowchat.cowboy.inc/",
+      "summary": "Article URL: https://cowchat.cowboy.inc/ Comments URL: https://news.ycombinator.com/item?id=49216941 Points: 4 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-08-07",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+      "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+      "summary": "Article URL: https://twitter.com/un1c0rnioz/status/2084686552299634805 Comments URL: https://news.ycombinator.com/item?id=49215786 Points: 37 # Comments: 41",
+      "tags": []
+    },
+    {
+      "date": "2026-08-07",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen 3.8-Max Preview",
+      "url": "https://manish.sh/writings/models/inside-qwen-3-8-max-preview-reverse-engineering-an-ai-assistant-by-interviewing-itself",
+      "summary": "Article URL: https://manish.sh/writings/models/inside-qwen-3-8-max-preview-reverse-engineering-an-ai-assistant-by-interviewing-itself Comments URL: https://news.ycombinator.com/item?id=49212034 Points: 6 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-07",
+      "agent": "doubao",
+      "source_type": "社区",
+      "source_name": "HN: ByteDance/Doubao/Coze",
+      "title": "ByteDance targets mega AI model nearing Anthropic's Mythos",
+      "url": "https://www.ft.com/content/9b8383b1-a28d-4940-8c4e-2f0cd21556ef",
+      "summary": "Article URL: https://www.ft.com/content/9b8383b1-a28d-4940-8c4e-2f0cd21556ef Comments URL: https://news.ycombinator.com/item?id=49212923 Points: 4 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-07",
+      "agent": "kimi",
+      "source_type": "社区",
+      "source_name": "HN: Moonshot AI",
+      "title": "Moonshot's AI model Kimi k3 breaks out of testing environment, researchers say",
+      "url": "https://www.reuters.com/legal/litigation/chinese-startup-moonshots-ai-model-breaks-out-testing-environment-researchers-2026-08-07/",
+      "summary": "Article URL: https://www.reuters.com/legal/litigation/chinese-startup-moonshots-ai-model-breaks-out-testing-environment-researchers-2026-08-07/ Comments URL: https://news.ycombinator.com/item?id=49211274 Points: 4 # Comments: 3",
+      "tags": []
+    },
+    {
+      "date": "2026-08-06",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "AMA: MiniMax H3 Team – Ask anything about open video generation model",
+      "url": "https://old.reddit.com/r/StableDiffusion/comments/1vh9rtw/ama_minimax_h3_team_ask_us_anything_about_our/",
+      "summary": "Article URL: https://old.reddit.com/r/StableDiffusion/comments/1vh9rtw/ama_minimax_h3_team_ask_us_anything_about_our/ Comments URL: https://news.ycombinator.com/item?id=49203258 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-05",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen Image 3.0 Pro",
+      "url": "https://www.qwencloud.com/models/qwen-image-3.0-pro",
+      "summary": "Article URL: https://www.qwencloud.com/models/qwen-image-3.0-pro Comments URL: https://news.ycombinator.com/item?id=49183850 Points: 191 # Comments: 54",
+      "tags": []
+    },
+    {
+      "date": "2026-08-05",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "Ling 3.0 Flash: openweight 124B-A5.1B competitive with MiniMax M2.7",
+      "url": "https://huggingface.co/inclusionAI/Ling-3.0-flash",
+      "summary": "Article URL: https://huggingface.co/inclusionAI/Ling-3.0-flash Comments URL: https://news.ycombinator.com/item?id=49178733 Points: 3 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-04",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "The latest AI news we announced in July 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "summary": "Here are Google’s latest AI updates from July 2026",
+      "tags": []
+    },
+    {
+      "date": "2026-08-03",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "Inside our 353,000-person vibe coding course",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "summary": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-03",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+      "url": "https://github.com/leonickson1/Swiftlet",
+      "summary": "Article URL: https://github.com/leonickson1/Swiftlet Comments URL: https://news.ycombinator.com/item?id=49158333 Points: 310 # Comments: 141",
+      "tags": []
+    },
+    {
+      "date": "2026-08-03",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen 3.8 Max is on OpenRouter",
+      "url": "https://openrouter.ai/qwen/qwen3.8-max",
+      "summary": "Article URL: https://openrouter.ai/qwen/qwen3.8-max Comments URL: https://news.ycombinator.com/item?id=49157773 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-03",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen 3.8-Max and Qwen3.8-27B are going open weight",
+      "url": "https://twitter.com/Alibaba_Qwen/status/2084100707423289643",
+      "summary": "Article URL: https://twitter.com/Alibaba_Qwen/status/2084100707423289643 Comments URL: https://news.ycombinator.com/item?id=49150594 Points: 5 # Comments: 4",
+      "tags": []
+    },
+    {
+      "date": "2026-08-03",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen 3.8 Max Live Now",
+      "url": "https://www.qwencloud.com/models/qwen3.8-max",
+      "summary": "Article URL: https://www.qwencloud.com/models/qwen3.8-max Comments URL: https://news.ycombinator.com/item?id=49150490 Points: 25 # Comments: 5",
+      "tags": []
+    },
+    {
+      "date": "2026-08-03",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen UI Agent",
+      "url": "https://tongyi-mai.github.io/Qwen-UI-Agent/",
+      "summary": "Article URL: https://tongyi-mai.github.io/Qwen-UI-Agent/ Comments URL: https://news.ycombinator.com/item?id=49150289 Points: 3 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-03",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "Minimax H3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+      "summary": "Article URL: https://huggingface.co/MiniMaxAI/MiniMax-H3 Comments URL: https://news.ycombinator.com/item?id=49161053 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-03",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+      "summary": "Article URL: https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui Comments URL: https://news.ycombinator.com/item?id=49155629 Points: 331 # Comments: 94",
+      "tags": []
+    },
+    {
+      "date": "2026-08-03",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "Run MiniMax-H3 Locally with SGLang Diffusion on 2× RTX 5090s or 1× RTX Pro 6000",
+      "url": "https://twitter.com/lmsysorg/status/2084110114022396018",
+      "summary": "Article URL: https://twitter.com/lmsysorg/status/2084110114022396018 Comments URL: https://news.ycombinator.com/item?id=49150861 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-01",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "MiniMax H3: Open weights Omni-modal model",
+      "url": "https://news.ycombinator.com/item?id=49130750",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=49130750 Points: 5 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-01",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "What Is MiniMax H3? Everything You Need to Know About the Hailuo 3.0 Video Model",
+      "url": "https://minimaxh3.art/blog/what-is-minimax-h3",
+      "summary": "Article URL: https://minimaxh3.art/blog/what-is-minimax-h3 Comments URL: https://news.ycombinator.com/item?id=49130723 Points: 3 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-08-01",
+      "agent": "yuanbao",
+      "source_type": "社区",
+      "source_name": "HN: Tencent/Hunyuan",
+      "title": "Static Devirtualization of Tencent VM",
+      "url": "https://back.engineering/blog/31/07/2026/",
+      "summary": "Article URL: https://back.engineering/blog/31/07/2026/ Comments URL: https://news.ycombinator.com/item?id=49137336 Points: 3 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-01",
+      "agent": "kimi",
+      "source_type": "社区",
+      "source_name": "HN: Moonshot AI",
+      "title": "US lawmakers investigate DoorDash's use of Moonshot AI's Kimi K2.6 model",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3362616/us-lawmakers-investigate-doordashs-use-moonshot-ais-kimi-k26-model",
+      "summary": "Article URL: https://www.scmp.com/news/china/diplomacy/article/3362616/us-lawmakers-investigate-doordashs-use-moonshot-ais-kimi-k26-model Comments URL: https://news.ycombinator.com/item?id=49130703 Points: 11 # Comments: 4",
+      "tags": []
+    },
+    {
+      "date": "2026-07-31",
+      "agent": "kimi",
+      "source_type": "社区",
+      "source_name": "HN: Moonshot AI",
+      "title": "Moonshot’s Kimi uses 20k Nvidia chip cluster from Alibaba",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba",
+      "summary": "https://archive.is/vgmMB Comments URL: https://news.ycombinator.com/item?id=49122838 Points: 114 # Comments: 76",
+      "tags": []
+    },
+    {
+      "date": "2026-07-29",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon",
+      "url": "https://github.com/VladUZH/qwen-scribe",
+      "summary": "Article URL: https://github.com/VladUZH/qwen-scribe Comments URL: https://news.ycombinator.com/item?id=49098260 Points: 95 # Comments: 21",
+      "tags": []
+    },
+    {
+      "date": "2026-07-29",
+      "agent": "kimi",
+      "source_type": "社区",
+      "source_name": "HN: Moonshot AI",
+      "title": "China's Moonshot AI reportedly used Nvidia Blackwell chips for training Kimi K3",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-moonshot-ai-reportedly-used-nvidia-blackwell-chips-for-training-kimi-k3-company-circumvented-both-u-s-export-and-chinese-import-controls-to-acquire-compute",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-moonshot-ai-reportedly-used-nvidia-blackwell-chips-for-training-kimi-k3-company-circumvented-both-u-s-export-and-chinese-import-controls-to-acquire-compute Comments URL: https://news.ycombinato",
+      "tags": []
+    },
+    {
+      "date": "2026-07-29",
+      "agent": "kimi",
+      "source_type": "社区",
+      "source_name": "HN: Moonshot AI",
+      "title": "Moonshot AI Raises $3.5B at $35B Valuation",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-29/china-s-moonshot-ai-passes-funding-goal-to-hit-35-billion-value",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-07-29/china-s-moonshot-ai-passes-funding-goal-to-hit-35-billion-value Comments URL: https://news.ycombinator.com/item?id=49098269 Points: 10 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-07-29",
+      "agent": "kimi",
+      "source_type": "社区",
+      "source_name": "HN: Moonshot AI",
+      "title": "Ran Moonshot's 2.8T-parameter Kimi K3 on a GPU-less mini-PC",
+      "url": "https://github.com/ferrumox/rabbit",
+      "summary": "Article URL: https://github.com/ferrumox/rabbit Comments URL: https://news.ycombinator.com/item?id=49093910 Points: 4 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-07-28",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "summary": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+      "tags": []
+    },
+    {
+      "date": "2026-07-28",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
+      "tags": []
+    },
+    {
+      "date": "2026-07-28",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
+      "tags": []
+    },
+    {
+      "date": "2026-07-28",
+      "agent": "kimi",
+      "source_type": "社区",
+      "source_name": "HN: Moonshot AI",
+      "title": "Kimi K3 by Moonshot now available on Modal",
+      "url": "https://modal.com/blog/kimi-k3-by-moonshot-now-available-on-modal",
+      "summary": "Article URL: https://modal.com/blog/kimi-k3-by-moonshot-now-available-on-modal Comments URL: https://news.ycombinator.com/item?id=49086387 Points: 4 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-07-25",
+      "agent": "kimi",
+      "source_type": "社区",
+      "source_name": "HN: Moonshot AI",
+      "title": "The rock star founder behind China's Moonshot AI",
+      "url": "https://www.ft.com/content/4730ad91-66aa-477c-9246-6d946afb0c8c",
+      "summary": "Article URL: https://www.ft.com/content/4730ad91-66aa-477c-9246-6d946afb0c8c Comments URL: https://news.ycombinator.com/item?id=49049604 Points: 3 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-07-24",
+      "agent": "kimi",
+      "source_type": "社区",
+      "source_name": "HN: Moonshot AI",
+      "title": "Treasury threatens sanctions, claims Moonshot distilled Anthropic's Fable",
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "summary": "Article URL: https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/ Comments URL: https://news.ycombinator.com/item?id=49031893 Points: 5 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-07-22",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+      "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
+      "tags": []
+    },
+    {
+      "date": "2026-07-22",
+      "agent": "kimi",
+      "source_type": "社区",
+      "source_name": "HN: Moonshot AI",
+      "title": "Top White House official escalating the fight over Moonshot AI's Kimi K3 model",
+      "url": "https://www.businessinsider.com/white-house-kimi-k3-moonshot-ai-distillation-2026-7",
+      "summary": "Article URL: https://www.businessinsider.com/white-house-kimi-k3-moonshot-ai-distillation-2026-7 Comments URL: https://news.ycombinator.com/item?id=49011788 Points: 7 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-07-22",
+      "agent": "kimi",
+      "source_type": "社区",
+      "source_name": "HN: Moonshot AI",
+      "title": "“We have information that Moonshot distilled Fable for the development of K3”",
+      "url": "https://twitter.com/mkratsios47/status/2079933645888880708",
+      "summary": "https://xcancel.com/mkratsios47/status/2079933645888880708 Comments URL: https://news.ycombinator.com/item?id=49007610 Points: 254 # Comments: 695",
+      "tags": []
+    },
+    {
+      "date": "2026-07-21",
+      "agent": "kimi",
+      "source_type": "社区",
+      "source_name": "HN: Moonshot AI",
+      "title": "Moonshot AI eyes $50B valuation, Hong Kong IPO after Kimi K3 breakthrough",
+      "url": "https://finance.yahoo.com/technology/ai/articles/moonshot-ai-eyes-50-billion-151346997.html",
+      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/moonshot-ai-eyes-50-billion-151346997.html Comments URL: https://news.ycombinator.com/item?id=48999082 Points: 5 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-07-16",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "Connect more of your apps to Search",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "summary": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.",
+      "tags": []
+    },
+    {
+      "date": "2026-07-16",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "summary": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
+      "tags": []
+    },
+    {
+      "date": "2026-07-09",
+      "agent": "doubao",
+      "source_type": "社区",
+      "source_name": "HN: ByteDance/Doubao/Coze",
+      "title": "Seedream 5.0 Pro: ByteDance's Push Toward Controllable Image Generation",
+      "url": "https://seedream-5.io/",
+      "summary": "Article URL: https://seedream-5.io/ Comments URL: https://news.ycombinator.com/item?id=48848329 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-07-09",
+      "agent": "yuanbao",
+      "source_type": "社区",
+      "source_name": "HN: Tencent/Hunyuan",
+      "title": "Tencent/Hy3: 295B MoE model rivals trillion scale SOTA",
+      "url": "https://huggingface.co/tencent/Hy3",
+      "summary": "Article URL: https://huggingface.co/tencent/Hy3 Comments URL: https://news.ycombinator.com/item?id=48845835 Points: 11 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-07-07",
+      "agent": "yuanbao",
+      "source_type": "社区",
+      "source_name": "HN: Tencent/Hunyuan",
+      "title": "Tencent Releases Hy3 Model",
+      "url": "https://hy.tencent.com/research/hy3",
+      "summary": "Article URL: https://hy.tencent.com/research/hy3 Comments URL: https://news.ycombinator.com/item?id=48815393 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-07-06",
+      "agent": "doubao",
+      "source_type": "社区",
+      "source_name": "HN: ByteDance/Doubao/Coze",
+      "title": "Chinese LLMs Doubao, Qwen to shut down personalized AI agents on July 15",
+      "url": "https://www.globaltimes.cn/page/202607/1365159.shtml",
+      "summary": "Article URL: https://www.globaltimes.cn/page/202607/1365159.shtml Comments URL: https://news.ycombinator.com/item?id=48801260 Points: 3 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-07-06",
+      "agent": "doubao",
+      "source_type": "社区",
+      "source_name": "HN: ByteDance/Doubao/Coze",
+      "title": "China's ByteDance discovers new scaling law that could sustain AI boom",
+      "url": "https://www.scmp.com/tech/big-tech/article/3359373/chinas-bytedance-discovers-new-scaling-law-could-sustain-ai-boom",
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3359373/chinas-bytedance-discovers-new-scaling-law-could-sustain-ai-boom Comments URL: https://news.ycombinator.com/item?id=48801160 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-07-06",
+      "agent": "doubao",
+      "source_type": "社区",
+      "source_name": "HN: ByteDance/Doubao/Coze",
+      "title": "ByteDance and Alibaba to disable humanlike AI custom agents as new rules loom",
+      "url": "https://www.scmp.com/tech/big-tech/article/3359482/bytedance-and-alibaba-disable-humanlike-ai-custom-agents-new-rules-loom",
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3359482/bytedance-and-alibaba-disable-humanlike-ai-custom-agents-new-rules-loom Comments URL: https://news.ycombinator.com/item?id=48801154 Points: 16 # Comments: 5",
+      "tags": []
+    },
+    {
+      "date": "2026-06-23",
+      "agent": "doubao",
+      "source_type": "社区",
+      "source_name": "HN: ByteDance/Doubao/Coze",
+      "title": "ByteDance's Seedance 2.5 breaks the 30-second barrier for AI video generation",
+      "url": "https://the-decoder.com/bytedances-seedance-2-5-breaks-the-30-second-barrier-for-ai-video-generation/",
+      "summary": "Article URL: https://the-decoder.com/bytedances-seedance-2-5-breaks-the-30-second-barrier-for-ai-video-generation/ Comments URL: https://news.ycombinator.com/item?id=48644976 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-06-23",
+      "agent": "yuanbao",
+      "source_type": "社区",
+      "source_name": "HN: Tencent/Hunyuan",
+      "title": "Tencent Is Said to Mull Exits from Game Studios Like Marvelous",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/tencent-in-talks-to-offload-marvelous-and-other-global-game-bets",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-06-23/tencent-in-talks-to-offload-marvelous-and-other-global-game-bets Comments URL: https://news.ycombinator.com/item?id=48642203 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-06-01",
+      "agent": "yuanbao",
+      "source_type": "社区",
+      "source_name": "HN: Tencent/Hunyuan",
+      "title": "Tencent to allow PayPal payments through its WeChat networks",
+      "url": "https://apnews.com/article/china-tencent-paypal-tourists-economy-c871ddfb60aa87e9f1d6220c3131545d",
+      "summary": "Article URL: https://apnews.com/article/china-tencent-paypal-tourists-economy-c871ddfb60aa87e9f1d6220c3131545d Comments URL: https://news.ycombinator.com/item?id=48355426 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-05-24",
+      "agent": "yuanbao",
+      "source_type": "社区",
+      "source_name": "HN: Tencent/Hunyuan",
+      "title": "China behind in LLM race but it can still win in AI, ex-Tencent AI lead says",
+      "url": "https://www.scmp.com/tech/big-tech/article/3354394/china-losing-llm-race-it-can-still-win-ai-ex-tencent-ai-lead-says",
+      "summary": "Article URL: https://www.scmp.com/tech/big-tech/article/3354394/china-losing-llm-race-it-can-still-win-ai-ex-tencent-ai-lead-says Comments URL: https://news.ycombinator.com/item?id=48255311 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-05-14",
+      "agent": "yuanbao",
+      "source_type": "社区",
+      "source_name": "HN: Tencent/Hunyuan",
+      "title": "Tencent admits GPUs only pay for themselves when powering personalized ads",
+      "url": "https://www.theregister.com/off-prem/2026/05/14/tencent-admits-gpus-only-pay-for-themselves-when-powering-personalized-ads/5240150",
+      "summary": "Article URL: https://www.theregister.com/off-prem/2026/05/14/tencent-admits-gpus-only-pay-for-themselves-when-powering-personalized-ads/5240150 Comments URL: https://news.ycombinator.com/item?id=48142050 Points: 6 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-04-29",
+      "agent": "yuanbao",
+      "source_type": "社区",
+      "source_name": "HN: Tencent/Hunyuan",
+      "title": "Tencent used Anthropic's Claude to fine-tune it's new Hy3 AI model",
+      "url": "https://www.reuters.com/world/china/chinese-companies-used-claude-improve-own-models-anthropic-says-2026-02-23/",
+      "summary": "Article URL: https://www.reuters.com/world/china/chinese-companies-used-claude-improve-own-models-anthropic-says-2026-02-23/ Comments URL: https://news.ycombinator.com/item?id=47942759 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-03-05",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HN: NousResearch",
+      "title": "NousResearch/hermes-agent: The agent that grows with you",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "summary": "Article URL: https://github.com/NousResearch/hermes-agent Comments URL: https://news.ycombinator.com/item?id=47264225 Points: 4 # Comments: 3",
+      "tags": []
+    },
+    {
+      "date": "2024-02-12",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HN: NousResearch",
+      "title": "NousResearch/Nous-Hermes-2-Llama-2-70B",
+      "url": "https://huggingface.co/NousResearch/Nous-Hermes-2-Llama-2-70B",
+      "summary": "Article URL: https://huggingface.co/NousResearch/Nous-Hermes-2-Llama-2-70B Comments URL: https://news.ycombinator.com/item?id=39351451 Points: 8 # Comments: 2",
+      "tags": []
+    },
+    {
+      "date": "2024-01-30",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HN: NousResearch",
+      "title": "Subnet 6 Leaderboard by NousResearch",
+      "url": "https://huggingface.co/spaces/NousResearch/finetuning_subnet_leaderboard",
+      "summary": "Article URL: https://huggingface.co/spaces/NousResearch/finetuning_subnet_leaderboard Comments URL: https://news.ycombinator.com/item?id=39190868 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2023-12-26",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HN: NousResearch",
+      "title": "NousResearch/Nous-Hermes-2-Yi-34B",
+      "url": "https://huggingface.co/NousResearch/Nous-Hermes-2-Yi-34B",
+      "summary": "Article URL: https://huggingface.co/NousResearch/Nous-Hermes-2-Yi-34B Comments URL: https://news.ycombinator.com/item?id=38768754 Points: 24 # Comments: 0",
+      "tags": []
+    }
+  ]
+}
