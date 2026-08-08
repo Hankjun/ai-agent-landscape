@@ -284,6 +284,66 @@
       "tags": []
     },
     {
+      "date": "2026-08-08",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Scaling Agentic RL: High-Throughput Agentic Training with Tunix",
+      "url": "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix/",
+      "summary": "Tunix is Google’s new JAX-native post-training library designed to eliminate TPU idling bottlenecks when training multi-turn, tool-using LLM reasoning agents. It maximizes hardware throughput by combining highly concurrent, asynchronous rollouts with a decoupled producer-consumer",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Run Ray on TPU, Part 1: The foundations",
+      "url": "https://developers.googleblog.com/run-ray-on-tpu-part-1-the-foundations/",
+      "summary": "Ray 2.55 introduces official, first-class support for Google Cloud TPUs, enabling developers to run distributed Python workloads on Google's accelerators using the familiar Ray task-and-actor APIs. To handle the strict networking requirement of keeping multi-host TPU \"slices\" tog",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "url": "https://openai.com/index/circles",
+      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Newer Models, Same Advantage",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-08-08",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Security incident disclosure — July 2026",
+      "url": "https://huggingface.co/blog/security-incident-july-2026",
+      "summary": "",
+      "tags": []
+    },
+    {
       "date": "2026-08-07",
       "agent": "claude",
       "source_type": "社区",
@@ -341,6 +401,26 @@
       "title": "Moonshot's AI model Kimi k3 breaks out of testing environment, researchers say",
       "url": "https://www.reuters.com/legal/litigation/chinese-startup-moonshots-ai-model-breaks-out-testing-environment-researchers-2026-08-07/",
       "summary": "Article URL: https://www.reuters.com/legal/litigation/chinese-startup-moonshots-ai-model-breaks-out-testing-environment-researchers-2026-08-07/ Comments URL: https://news.ycombinator.com/item?id=49211274 Points: 4 # Comments: 3",
+      "tags": []
+    },
+    {
+      "date": "2026-08-07",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Claude Code: Starting August 14, auto mode will be the default permission mode",
+      "url": "https://twitter.com/ClaudeDevs/status/2085794862608318627",
+      "summary": "Article URL: https://twitter.com/ClaudeDevs/status/2085794862608318627 Comments URL: https://news.ycombinator.com/item?id=49214994 Points: 19 # Comments: 23",
+      "tags": []
+    },
+    {
+      "date": "2026-08-07",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Talk to Claude Code. Force Yourself to Slow Down and Think",
+      "url": "https://github.com/tmshapland/audiochatty-plugin",
+      "summary": "Article URL: https://github.com/tmshapland/audiochatty-plugin Comments URL: https://news.ycombinator.com/item?id=49214118 Points: 2 # Comments: 4",
       "tags": []
     },
     {
@@ -524,6 +604,26 @@
       "tags": []
     },
     {
+      "date": "2026-07-31",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "China's MiniMax releases H3 video model",
+      "url": "https://www.reuters.com/world/china/chinas-minimax-releases-h3-video-model-2026-07-31/",
+      "summary": "Article URL: https://www.reuters.com/world/china/chinas-minimax-releases-h3-video-model-2026-07-31/ Comments URL: https://news.ycombinator.com/item?id=49123178 Points: 5 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-07-31",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "Minimax H3 on Anime",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1vbdf4c/comment/p0t2jzw/",
+      "summary": "Article URL: https://www.reddit.com/r/StableDiffusion/comments/1vbdf4c/comment/p0t2jzw/ Comments URL: https://news.ycombinator.com/item?id=49119046 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
       "date": "2026-07-29",
       "agent": "qwen",
       "source_type": "社区",
@@ -601,6 +701,26 @@
       "title": "Kimi K3 by Moonshot now available on Modal",
       "url": "https://modal.com/blog/kimi-k3-by-moonshot-now-available-on-modal",
       "summary": "Article URL: https://modal.com/blog/kimi-k3-by-moonshot-now-available-on-modal Comments URL: https://news.ycombinator.com/item?id=49086387 Points: 4 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-07-28",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen 3.7 or 3.8 30B – 100B. QWhen?",
+      "url": "https://news.ycombinator.com/item?id=49088705",
+      "summary": "I'm not quite following the news. Is it true? When will the Qwen versions of this size be released? Comments URL: https://news.ycombinator.com/item?id=49088705 Points: 6 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-07-28",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Microsoft finetuned Qwen 27B for computer use",
+      "url": "https://huggingface.co/microsoft/Fara1.5-27B",
+      "summary": "Article URL: https://huggingface.co/microsoft/Fara1.5-27B Comments URL: https://news.ycombinator.com/item?id=49077894 Points: 3 # Comments: 3",
       "tags": []
     },
     {
@@ -684,6 +804,16 @@
       "tags": []
     },
     {
+      "date": "2026-07-14",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "Celebrating 25 years of visual search innovation",
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "summary": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
+      "tags": []
+    },
+    {
       "date": "2026-07-09",
       "agent": "doubao",
       "source_type": "社区",
@@ -711,6 +841,16 @@
       "title": "Tencent Releases Hy3 Model",
       "url": "https://hy.tencent.com/research/hy3",
       "summary": "Article URL: https://hy.tencent.com/research/hy3 Comments URL: https://news.ycombinator.com/item?id=48815393 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-07-07",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "summary": "We’re announcing new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
       "tags": []
     },
     {
@@ -771,6 +911,26 @@
       "title": "Tencent to allow PayPal payments through its WeChat networks",
       "url": "https://apnews.com/article/china-tencent-paypal-tourists-economy-c871ddfb60aa87e9f1d6220c3131545d",
       "summary": "Article URL: https://apnews.com/article/china-tencent-paypal-tourists-economy-c871ddfb60aa87e9f1d6220c3131545d Comments URL: https://news.ycombinator.com/item?id=48355426 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-05-26",
+      "agent": "doubao",
+      "source_type": "社区",
+      "source_name": "HN: ByteDance/Doubao/Coze",
+      "title": "Qualcomm strikes AI chip deal with TikTok owner ByteDance",
+      "url": "https://www.reuters.com/business/qualcomm-strikes-ai-chip-deal-with-tiktok-owner-bytedance-bloomberg-news-reports-2026-05-26/",
+      "summary": "Article URL: https://www.reuters.com/business/qualcomm-strikes-ai-chip-deal-with-tiktok-owner-bytedance-bloomberg-news-reports-2026-05-26/ Comments URL: https://news.ycombinator.com/item?id=48287403 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-05-26",
+      "agent": "doubao",
+      "source_type": "社区",
+      "source_name": "HN: ByteDance/Doubao/Coze",
+      "title": "ByteDance offers AI team special stock to combat poaching",
+      "url": "https://www.ft.com/content/0b05e1dd-04c7-4925-be6f-7dc63717cbce",
+      "summary": "Article URL: https://www.ft.com/content/0b05e1dd-04c7-4925-be6f-7dc63717cbce Comments URL: https://news.ycombinator.com/item?id=48286779 Points: 2 # Comments: 0",
       "tags": []
     },
     {
