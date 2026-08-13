@@ -1,8 +1,228 @@
 {
   "schema": "1.0",
-  "updated": "2026-08-11",
+  "updated": "2026-08-13",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
+    {
+      "date": "2026-08-13",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Anthropic in Talks to Buy World Model AI Startup Decart for $6B",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion Comments URL: https://news.ycombinator.com/item?id=49280945 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-13",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: Chatlens – Search and browse your ChatGPT and Claude chats offline",
+      "url": "https://github.com/david-g-3654/chatlens",
+      "summary": "this is one HTML file, about 85KB, with no build step and no backend. Download it, open it, drop your export on it. Tested with ChatGPT export json files of chat history. Limitations: attachments and images in exports are handled as text references, not rendered. Comments URL: ht",
+      "tags": []
+    },
+    {
+      "date": "2026-08-13",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Mux Beacon – macOS menu-bar inbox for Claude Code/Codex agents in tmux",
+      "url": "https://github.com/Lukeesec/mux-beacon",
+      "summary": "Article URL: https://github.com/Lukeesec/mux-beacon Comments URL: https://news.ycombinator.com/item?id=49280400 Points: 1 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-08-13",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-13",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "url": "https://openai.com/index/ringcentral",
+      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-13",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-08-13",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-08-13",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-08-12",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
+      "url": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
+      "summary": "Deploying secure, real-time Edge AI on Raspberry Pi is now simplified using LiteRT and lightweight Gemma open models. LiteRT optimizes CPU and GPU performance, delivering fast token speeds for models like Gemma4, enabling real-time local reasoning for robotics. Developers can qui",
+      "tags": []
+    },
+    {
+      "date": "2026-08-12",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
+      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "summary": "As AI coding assistants shift the developer's primary role from writing boilerplate to reviewing and maintaining systems, language choice becomes critical for long-term architectural integrity. Go directly addresses this new paradigm by utilizing its strict compiler, integrated t",
+      "tags": []
+    },
+    {
+      "date": "2026-08-12",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-12",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Daybreak models are now available on AWS",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-12",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: Tmux-agent-switcher: see which Claude/Codex agents need your attention",
+      "url": "https://github.com/Ymirke/tmux-agent-switcher",
+      "summary": "Since the start of this year I've coded pretty much exclusively by running multiple AI agents in parallel. Having tried a bunch of tools for managing them, I kept coming back to tmux. This is becaues I want to run them on a separate machine as I like being able to close my laptop",
+      "tags": []
+    },
+    {
+      "date": "2026-08-12",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: A Linear agent that runs Claude Code sessions on your own machine",
+      "url": "https://github.com/MPIsaac-Per/linear-claude-bridge",
+      "summary": "I keep everything in a local Obsidian knowledge base and run Claude Code against it all day. I also live in Linear. I wanted to ask the knowledge base questions within the Linear ticket. So, I created a small bridge. Register a Linear OAuth app as an agent, mention it or delegate",
+      "tags": []
+    },
+    {
+      "date": "2026-08-12",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Claude for Chrome",
+      "url": "https://claude.com/claude-in-chrome",
+      "summary": "Article URL: https://claude.com/claude-in-chrome Comments URL: https://news.ycombinator.com/item?id=49278068 Points: 4 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-08-12",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Linux Security Audit Claude Code Plugin",
+      "url": "https://github.com/jonaslejon/linux-security-audit-plugin/",
+      "summary": "Article URL: https://github.com/jonaslejon/linux-security-audit-plugin/ Comments URL: https://news.ycombinator.com/item?id=49278007 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-12",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "How Claude's watermarking (probably) works",
+      "url": "https://johnjwang.com/post/2026/08/12/how-claude-watermarking-probably-works/",
+      "summary": "Article URL: https://johnjwang.com/post/2026/08/12/how-claude-watermarking-probably-works/ Comments URL: https://news.ycombinator.com/item?id=49276728 Points: 3 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-12",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Peter – graph-based agent orchestration as a Claude Code skill",
+      "url": "https://github.com/robertkeus/peter",
+      "summary": "Article URL: https://github.com/robertkeus/peter Comments URL: https://news.ycombinator.com/item?id=49276063 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-12",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: Claude Code kept ignoring our MCP tools, so we used hooks instead",
+      "url": "https://github.com/NanoNets/Graft",
+      "summary": "Article URL: https://github.com/NanoNets/Graft Comments URL: https://news.ycombinator.com/item?id=49275395 Points: 3 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-12",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen 3.8-27B goes openweight in 2 days",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "summary": "Article URL: https://huggingface.co/Qwen/Qwen3.8-27B Comments URL: https://news.ycombinator.com/item?id=49272534 Points: 17 # Comments: 17",
+      "tags": []
+    },
+    {
+      "date": "2026-08-12",
+      "agent": "doubao",
+      "source_type": "社区",
+      "source_name": "HN: ByteDance/Doubao/Coze",
+      "title": "ByteDance launches SeedRealtime: native full-duplex audio-video model",
+      "url": "https://ainexusdaily.vercel.app",
+      "summary": "Article URL: https://ainexusdaily.vercel.app Comments URL: https://news.ycombinator.com/item?id=49278437 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-12",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "MiniMax H3: An Open Model Breaking the Boundaries Between Tasks and Modalities",
+      "url": "https://twitter.com/MiniMax_AI/status/2083008095488516262",
+      "summary": "Article URL: https://twitter.com/MiniMax_AI/status/2083008095488516262 Comments URL: https://news.ycombinator.com/item?id=49267098 Points: 4 # Comments: 0",
+      "tags": []
+    },
     {
       "date": "2026-08-11",
       "agent": "claude",
@@ -141,6 +361,46 @@
       "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
       "url": "https://huggingface.co/blog/muse-glimmer",
       "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-08-11",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "summary": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-11",
+      "agent": "doubao",
+      "source_type": "社区",
+      "source_name": "HN: ByteDance/Doubao/Coze",
+      "title": "ByteDance Seed: Seed-2.0-Code for Agentic Coding",
+      "url": "https://openrouter.ai/bytedance-seed/seed-2.0-code",
+      "summary": "Article URL: https://openrouter.ai/bytedance-seed/seed-2.0-code Comments URL: https://news.ycombinator.com/item?id=49261153 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-11",
+      "agent": "yuanbao",
+      "source_type": "社区",
+      "source_name": "HN: Tencent/Hunyuan",
+      "title": "We benchmarked Exoscale vs. Tencent VM's: 3.25× the CPU throughput for 18% less",
+      "url": "https://webbynode.com/articles/exoscale-vs-tencent-cpu-throughput",
+      "summary": "Article URL: https://webbynode.com/articles/exoscale-vs-tencent-cpu-throughput Comments URL: https://news.ycombinator.com/item?id=49260705 Points: 1 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-08-11",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
+      "url": "https://github.com/antirez/h3.c",
+      "summary": "Article URL: https://github.com/antirez/h3.c Comments URL: https://news.ycombinator.com/item?id=49252179 Points: 438 # Comments: 98",
       "tags": []
     },
     {
