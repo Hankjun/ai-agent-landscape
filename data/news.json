@@ -1,8 +1,18 @@
 {
   "schema": "1.0",
-  "updated": "2026-08-14",
+  "updated": "2026-08-15",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
+    {
+      "date": "2026-08-15",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "State of Open Models: Summer 2026 Observations",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "summary": "",
+      "tags": []
+    },
     {
       "date": "2026-08-14",
       "agent": "gemini",
@@ -161,6 +171,16 @@
       "title": "Bring your spreadsheet data to life with Sheets canvas",
       "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
       "summary": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-13",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "MiniMax-Music3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+      "summary": "Article URL: https://huggingface.co/MiniMaxAI/MiniMax-Music3 Comments URL: https://news.ycombinator.com/item?id=49287957 Points: 7 # Comments: 0",
       "tags": []
     },
     {
