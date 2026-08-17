@@ -1,8 +1,108 @@
 {
   "schema": "1.0",
-  "updated": "2026-08-16",
+  "updated": "2026-08-17",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
+    {
+      "date": "2026-08-17",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Ask HN: How do you keep track of all your codex/Claude sessions?",
+      "url": "https://news.ycombinator.com/item?id=49325946",
+      "summary": "I create so many assets, for both dev and GTM, have many that remain unfinished... How do you keep track of it all? Comments URL: https://news.ycombinator.com/item?id=49325946 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-17",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: Adding friction to my automatic open Claude reaction",
+      "url": "https://news.ycombinator.com/item?id=49325617",
+      "summary": "I've been reaching for claude way too often and wanted to add some friction. Give myself a chance to think about whether or not it's actually necessary :') https://github.com/aqureshi8/claudeconfirm Comments URL: https://news.ycombinator.com/item?id=49325617 Points: 4 # Comments:",
+      "tags": []
+    },
+    {
+      "date": "2026-08-16",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Context for Claude – give eyes and ears to your agents",
+      "url": "https://www.contextforclaude.com/",
+      "summary": "Article URL: https://www.contextforclaude.com/ Comments URL: https://news.ycombinator.com/item?id=49324945 Points: 4 # Comments: 2",
+      "tags": []
+    },
+    {
+      "date": "2026-08-16",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Anthropic CEO says the way for AI to win over the public is to cure cancer",
+      "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
+      "summary": "Article URL: https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8 Comments URL: https://news.ycombinator.com/item?id=49324572 Points: 24 # Comments: 37",
+      "tags": []
+    },
+    {
+      "date": "2026-08-16",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: ChatGPT and Claude export viewer that runs locally in the browser",
+      "url": "https://www.vinaa.ai/tools/ai-chat-history-browser/",
+      "summary": "I regularly export my chats from ChatGPT and Claude as backup. There are times I wanted to quickly see what is inside them So I built this tool to make these export easier to browse. One thing I learnt while building is that neither ChatGPT nor Claude export enough info to reprod",
+      "tags": []
+    },
+    {
+      "date": "2026-08-16",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "summary": "Article URL: https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing Comments URL: https://news.ycombinator.com/item?id=49324087 Points: 158 # Comments: 163",
+      "tags": []
+    },
+    {
+      "date": "2026-08-16",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Claude Seems Down",
+      "url": "https://news.ycombinator.com/item?id=49324078",
+      "summary": "Throwing \"Authentication service was unavailable.\", no updates on their status page, but there are on downdetector Comments URL: https://news.ycombinator.com/item?id=49324078 Points: 49 # Comments: 46",
+      "tags": []
+    },
+    {
+      "date": "2026-08-16",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Claude Is Down",
+      "url": "https://claude.ai/new",
+      "summary": "Article URL: https://claude.ai/new Comments URL: https://news.ycombinator.com/item?id=49324068 Points: 29 # Comments: 37",
+      "tags": []
+    },
+    {
+      "date": "2026-08-16",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Don't blame Claude – It's me, I'm the problem, it's me",
+      "url": "https://www.atomic14.com/2026/08/16/its-me-hi-im-the-problem",
+      "summary": "Article URL: https://www.atomic14.com/2026/08/16/its-me-hi-im-the-problem Comments URL: https://news.ycombinator.com/item?id=49323765 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-16",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+      "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/",
+      "summary": "Article URL: https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/ Comments URL: https://news.ycombinator.com/item?id=49323620 Points: 41 # Comments: 57",
+      "tags": []
+    },
     {
       "date": "2026-08-15",
       "agent": "hermes",
