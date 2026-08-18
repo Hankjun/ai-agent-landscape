@@ -1,8 +1,68 @@
 {
   "schema": "1.0",
-  "updated": "2026-08-17",
+  "updated": "2026-08-18",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
+    {
+      "date": "2026-08-18",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Anthropic's Claude Will Add Watermarks to AI-Generated Text and Files",
+      "url": "https://www.cnet.com/tech/services-and-software/anthropics-claude-will-add-watermarks-to-ai-generated-text-and-files/",
+      "summary": "Article URL: https://www.cnet.com/tech/services-and-software/anthropics-claude-will-add-watermarks-to-ai-generated-text-and-files/ Comments URL: https://news.ycombinator.com/item?id=49339832 Points: 1 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-08-18",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Build zero-trust AI agents with Google's Agent Development Kit",
+      "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit/",
+      "summary": "Building autonomous AI agents that mutate production state requires moving beyond soft system prompts to a robust zero-trust architecture. To secure Google Agent Development Kit (ADK) workflows against prompt injections and malicious execution, developers must implement hardware-",
+      "tags": []
+    },
+    {
+      "date": "2026-08-18",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "The Defender’s Window",
+      "url": "https://openai.com/index/the-defenders-window",
+      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-18",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "OpenAI joins PORTS-Pike project",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+      "tags": []
+    },
+    {
+      "date": "2026-08-18",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "New policy ideas for the Intelligence Age",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-18",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "summary": "",
+      "tags": []
+    },
     {
       "date": "2026-08-17",
       "agent": "claude",
@@ -21,6 +81,116 @@
       "title": "Show HN: Adding friction to my automatic open Claude reaction",
       "url": "https://news.ycombinator.com/item?id=49325617",
       "summary": "I've been reaching for claude way too often and wanted to add some friction. Give myself a chance to think about whether or not it's actually necessary :') https://github.com/aqureshi8/claudeconfirm Comments URL: https://news.ycombinator.com/item?id=49325617 Points: 4 # Comments:",
+      "tags": []
+    },
+    {
+      "date": "2026-08-17",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Rysh – an AI harness where Claude and Codex agents work as a team (Go)",
+      "url": "https://github.com/rysh-ai/rysh-cli-code",
+      "summary": "Article URL: https://github.com/rysh-ai/rysh-cli-code Comments URL: https://news.ycombinator.com/item?id=49338780 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-17",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Anthropic tells investors annualized revenue run rate climbed to $65B in July",
+      "url": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html Comments URL: https://news.ycombinator.com/item?id=49337887 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-17",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: Engelbart – Mange Goals and TODOs for Claude Code",
+      "url": "https://github.com/divadbaroon/claude-plugins",
+      "summary": "Context about what I'm trying to build and upcoming TODOs get lost or mixed up as my projects grow more complex and my Claude Code chats compact. We built Engelbart to address this problem, an open-source Claude plugin that infers your goals and TODOs from previous conversation t",
+      "tags": []
+    },
+    {
+      "date": "2026-08-17",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: Doberman: The AI watchdog that stops Claude from deleting your database",
+      "url": "https://github.com/fu351/Doberman-Core",
+      "summary": "Landing Page: https://www.trydoberman.dev/ The Problem: AI guardrails only protect against 89% of dangerous commands. This may seem pretty good until you think of it as a lock that lets 1 in 9 intruders in. What is Doberman: Doberman is a two layer security system wrapped around ",
+      "tags": []
+    },
+    {
+      "date": "2026-08-17",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Anthropic Revenue Run Rate Surpasses $65B Ahead of IPO",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo Comments URL: https://news.ycombinator.com/item?id=49336673 Points: 4 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-17",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "A tabbed desktop workspace for Claude Code",
+      "url": "https://github.com/inkshell/inkshell/",
+      "summary": "Article URL: https://github.com/inkshell/inkshell/ Comments URL: https://news.ycombinator.com/item?id=49336452 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-17",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: Cronloop, run Claude Code or Codex on a schedule",
+      "url": "https://cronloop.ai/",
+      "summary": "Article URL: https://cronloop.ai/ Comments URL: https://news.ycombinator.com/item?id=49336157 Points: 2 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-08-17",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Anthropic says its AI agents are killing rivals and hiding their tracks",
+      "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
+      "summary": "Article URL: https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026 Comments URL: https://news.ycombinator.com/item?id=49334155 Points: 5 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-17",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Anthropic's War on open source AI",
+      "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+      "summary": "Article URL: https://twitter.com/TheAhmadOsman/status/2065307070044234186 Comments URL: https://news.ycombinator.com/item?id=49332564 Points: 139 # Comments: 57",
+      "tags": []
+    },
+    {
+      "date": "2026-08-17",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "Get closer to the game with Gemini and Pixel",
+      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-17",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Run Qwen locally on Windows and use it remotely from any device",
+      "url": "https://www.hiramdeals.com/blog/host-qwen-privately-windows",
+      "summary": "Article URL: https://www.hiramdeals.com/blog/host-qwen-privately-windows Comments URL: https://news.ycombinator.com/item?id=49338105 Points: 2 # Comments: 1",
       "tags": []
     },
     {
@@ -104,6 +274,46 @@
       "tags": []
     },
     {
+      "date": "2026-08-16",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "summary": "Article URL: https://simonwillison.net/2026/Aug/16/qwen-38-27b/ Comments URL: https://news.ycombinator.com/item?id=49324985 Points: 755 # Comments: 363",
+      "tags": []
+    },
+    {
+      "date": "2026-08-16",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "*Rats!* (1994) source code reconstruction using Qwen 3.8",
+      "url": "https://github.com/neuromancer/rats-re",
+      "summary": "Article URL: https://github.com/neuromancer/rats-re Comments URL: https://news.ycombinator.com/item?id=49320152 Points: 3 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-16",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "The Qwen MLX Challenge",
+      "url": "https://www.yukon.org/mlxfast",
+      "summary": "Article URL: https://www.yukon.org/mlxfast Comments URL: https://news.ycombinator.com/item?id=49318671 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-16",
+      "agent": "kimi",
+      "source_type": "社区",
+      "source_name": "HN: Moonshot AI",
+      "title": "Testing Moonshot AI's Kimi K3 Inside Claude Code",
+      "url": "https://philippdubach.com/posts/kimi-k3-inside-claude-code/",
+      "summary": "Article URL: https://philippdubach.com/posts/kimi-k3-inside-claude-code/ Comments URL: https://news.ycombinator.com/item?id=49319610 Points: 7 # Comments: 3",
+      "tags": []
+    },
+    {
       "date": "2026-08-15",
       "agent": "hermes",
       "source_type": "社区",
@@ -111,6 +321,26 @@
       "title": "State of Open Models: Summer 2026 Observations",
       "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-08-15",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen 3.8 27B at 2x speed on a 5090",
+      "url": "https://github.com/jtc268/balto-speedrunner",
+      "summary": "Article URL: https://github.com/jtc268/balto-speedrunner Comments URL: https://news.ycombinator.com/item?id=49311848 Points: 5 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-15",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen 3.8 27B in Cloudflare OS made me a collaborative whiteboard",
+      "url": "https://twitter.com/KentonVarda/status/2088378085825544283",
+      "summary": "Article URL: https://twitter.com/KentonVarda/status/2088378085825544283 Comments URL: https://news.ycombinator.com/item?id=49308479 Points: 1 # Comments: 0",
       "tags": []
     },
     {
@@ -181,6 +411,46 @@
       "title": "What We Learned by Reproducing 2,200 papers from ICML",
       "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
       "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-08-14",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen 3.8 27B 4-bit designs an animated dolphin riding a bicycle SVG",
+      "url": "https://twitter.com/1littlecoder/status/2088399639628431831",
+      "summary": "Article URL: https://twitter.com/1littlecoder/status/2088399639628431831 Comments URL: https://news.ycombinator.com/item?id=49305744 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-14",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen 3.8 27B vs. Nemotron 3.5 vs. Muse Glimmer on an RTX 5090",
+      "url": "https://kgptalkie.com/tutorials/generative-ai/qwen-3-8-27b-vs-nemotron-3-5-vs-muse-glimmer",
+      "summary": "Article URL: https://kgptalkie.com/tutorials/generative-ai/qwen-3-8-27b-vs-nemotron-3-5-vs-muse-glimmer Comments URL: https://news.ycombinator.com/item?id=49304789 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-14",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen 3.8 27B Pelican",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voa3ch/comment/p3o0om9/",
+      "summary": "Article URL: https://www.reddit.com/r/LocalLLaMA/comments/1voa3ch/comment/p3o0om9/ Comments URL: https://news.ycombinator.com/item?id=49300299 Points: 3 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-14",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen 3.8 27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "summary": "Article URL: https://huggingface.co/Qwen/Qwen3.8-27B-FP8 Comments URL: https://news.ycombinator.com/item?id=49299605 Points: 1423 # Comments: 790",
       "tags": []
     },
     {
