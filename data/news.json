@@ -1,8 +1,168 @@
 {
   "schema": "1.0",
-  "updated": "2026-08-20",
+  "updated": "2026-08-21",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
+    {
+      "date": "2026-08-21",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Introducing AI Futures",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-21",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "url": "https://openai.com/index/stampli",
+      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-21",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-21",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "url": "https://openai.com/index/replit",
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-21",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "ChatGPT Ads expands across Europe",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-20",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Creative Thinking by Claude Shannon",
+      "url": "https://www1.ece.neu.edu/~naderi/Claude%20Shannon.html",
+      "summary": "Article URL: https://www1.ece.neu.edu/~naderi/Claude%20Shannon.html Comments URL: https://news.ycombinator.com/item?id=49381743 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-20",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: luoluoAI – OpenAI-compatible and Claude Messages API gateway",
+      "url": "https://api.luoluocoder.com/",
+      "summary": "Article URL: https://api.luoluocoder.com/ Comments URL: https://news.ycombinator.com/item?id=49381675 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-20",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Is AI spend on OpenAI or Anthropic starting to eat into your runway?",
+      "url": "https://rails-agent.com/",
+      "summary": "Article URL: https://rails-agent.com/ Comments URL: https://news.ycombinator.com/item?id=49381098 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-20",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "OpenWhip: whip Claude Code (CLI) into working faster",
+      "url": "https://xcancel.com/antibot/captcha",
+      "summary": "Article URL: https://xcancel.com/antibot/captcha Comments URL: https://news.ycombinator.com/item?id=49380855 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-20",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: Verified business dashboards inside ChatGPT and Claude via MCP Apps",
+      "url": "https://www.corpusiq.io/docs/hermes/mcp/mcp-apps-interactive-ui",
+      "summary": "Article URL: https://www.corpusiq.io/docs/hermes/mcp/mcp-apps-interactive-ui Comments URL: https://news.ycombinator.com/item?id=49380035 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-20",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Anthropic Expects to Match SpaceX's Record IPO Size or Top It",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it Comments URL: https://news.ycombinator.com/item?id=49378451 Points: 7 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-20",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Claude \"warning\" users about language and defending business influencers",
+      "url": "https://twitter.com/MatznerJon/status/2090157152690196754",
+      "summary": "Article URL: https://twitter.com/MatznerJon/status/2090157152690196754 Comments URL: https://news.ycombinator.com/item?id=49378204 Points: 13 # Comments: 3",
+      "tags": []
+    },
+    {
+      "date": "2026-08-20",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: Pacer – Realtime Claude Code Usage Tracking / Pacing",
+      "url": "https://github.com/EricAndrechek/Pacer",
+      "summary": "Article URL: https://github.com/EricAndrechek/Pacer Comments URL: https://news.ycombinator.com/item?id=49376775 Points: 2 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-08-20",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "No, Anthropic Won't Be the Only Company Left",
+      "url": "https://forwardfuture.com/newsletter/originals/no-anthropic-won-t-be-the-only-company-left",
+      "summary": "Article URL: https://forwardfuture.com/newsletter/originals/no-anthropic-won-t-be-the-only-company-left Comments URL: https://news.ycombinator.com/item?id=49376655 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-20",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "I am morally opposed to updating my Claude.md",
+      "url": "https://alex-jacobs.com/posts/claudemd/",
+      "summary": "Article URL: https://alex-jacobs.com/posts/claudemd/ Comments URL: https://news.ycombinator.com/item?id=49376287 Points: 28 # Comments: 24",
+      "tags": []
+    },
+    {
+      "date": "2026-08-20",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen 3.8 27B is a great open model",
+      "url": "https://williamcallahan.com/blog/qwen-3-8-27b-is-a-great-open-model",
+      "summary": "Article URL: https://williamcallahan.com/blog/qwen-3-8-27b-is-a-great-open-model Comments URL: https://news.ycombinator.com/item?id=49371634 Points: 3 # Comments: 0",
+      "tags": []
+    },
     {
       "date": "2026-08-19",
       "agent": "codex",
@@ -91,6 +251,16 @@
       "title": "5 new ways to level up your learning with Search",
       "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
       "summary": "Here’s how you can use Google Search tools to study for classes and standardized tests.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-19",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Tiny Qwen personal-style resampler",
+      "url": "https://github.com/PaulBellette/qwen_paul_resampler",
+      "summary": "Article URL: https://github.com/PaulBellette/qwen_paul_resampler Comments URL: https://news.ycombinator.com/item?id=49359385 Points: 2 # Comments: 0",
       "tags": []
     },
     {
