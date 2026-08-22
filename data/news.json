@@ -1,6 +1,6 @@
 {
   "schema": "1.0",
-  "updated": "2026-08-21",
+  "updated": "2026-08-22",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
     {
