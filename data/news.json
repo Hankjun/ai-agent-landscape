@@ -1,8 +1,48 @@
 {
   "schema": "1.0",
-  "updated": "2026-08-22",
+  "updated": "2026-08-23",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
+    {
+      "date": "2026-08-23",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Measuring benchmark optimization in speech recognition",
+      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-08-23",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-08-22",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "MiniMax M3 Medium hits 73.17% F1 on DeepSearchQA, near GPT-5 High",
+      "url": "https://huggingface.co/datasets/youdotcom/minimax-m3-deepsearchqa-skill-eval",
+      "summary": "Article URL: https://huggingface.co/datasets/youdotcom/minimax-m3-deepsearchqa-skill-eval Comments URL: https://news.ycombinator.com/item?id=49404524 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-22",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "Show HN: MiniMax H3 on a 16GB Mac, 5 days after open weights",
+      "url": "https://github.com/tgo-app-dev/vpipe",
+      "summary": "Article URL: https://github.com/tgo-app-dev/vpipe Comments URL: https://news.ycombinator.com/item?id=49397410 Points: 3 # Comments: 0",
+      "tags": []
+    },
     {
       "date": "2026-08-21",
       "agent": "codex",
@@ -51,6 +91,26 @@
       "title": "ChatGPT Ads expands across Europe",
       "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
       "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-21",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Good Results when training Qwen 3 4B to learn a new domain",
+      "url": "https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain",
+      "summary": "Article URL: https://www.teachmecoolstuff.com/viewarticle/teaching-a-local-llm-a-new-domain Comments URL: https://news.ycombinator.com/item?id=49387684 Points: 5 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-21",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen Image 3.0 Pro vs. GPT Image 2 for production image APIs",
+      "url": "https://flaq.ai/models/alibaba/qwen-image-3-0-pro/",
+      "summary": "Article URL: https://flaq.ai/models/alibaba/qwen-image-3-0-pro/ Comments URL: https://news.ycombinator.com/item?id=49386174 Points: 2 # Comments: 0",
       "tags": []
     },
     {
@@ -164,6 +224,16 @@
       "tags": []
     },
     {
+      "date": "2026-08-20",
+      "agent": "yuanbao",
+      "source_type": "社区",
+      "source_name": "HN: Tencent/Hunyuan",
+      "title": "Same Tencent VPS plan in 8 regions: identical CPU different networks",
+      "url": "https://webbynode.com/articles/tencent-same-vps-plan-8-regions-network-performance",
+      "summary": "Article URL: https://webbynode.com/articles/tencent-same-vps-plan-8-regions-network-performance Comments URL: https://news.ycombinator.com/item?id=49376800 Points: 1 # Comments: 1",
+      "tags": []
+    },
+    {
       "date": "2026-08-19",
       "agent": "codex",
       "source_type": "官方博客",
@@ -261,6 +331,16 @@
       "title": "Tiny Qwen personal-style resampler",
       "url": "https://github.com/PaulBellette/qwen_paul_resampler",
       "summary": "Article URL: https://github.com/PaulBellette/qwen_paul_resampler Comments URL: https://news.ycombinator.com/item?id=49359385 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-19",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "H3 Video – MiniMax H3 AI Video Generator",
+      "url": "https://www.h3vid.com",
+      "summary": "Article URL: https://www.h3vid.com Comments URL: https://news.ycombinator.com/item?id=49363263 Points: 3 # Comments: 1",
       "tags": []
     },
     {
