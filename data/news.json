@@ -1,8 +1,48 @@
 {
   "schema": "1.0",
-  "updated": "2026-08-24",
+  "updated": "2026-08-25",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
+    {
+      "date": "2026-08-25",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "How to Evaluate Live & Voice Agents in ADK",
+      "url": "https://developers.googleblog.com/how-to-evaluate-live-voice-agents-in-adk/",
+      "summary": "Moving live voice agents from demo to production requires rigorous, automated testing to handle the unpredictability of real multi-turn conversations. ADK now provides native live evaluation, allowing developers to test graph-based agent workflows against LLM-driven simulated use",
+      "tags": []
+    },
+    {
+      "date": "2026-08-25",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-24",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen 3.6 is now much easier to run locally on your Mac, thanks to JetBrains",
+      "url": "https://www.neowin.net/news/qwen-36-is-now-much-easier-to-run-locally-on-your-mac-thanks-to-jetbrains/",
+      "summary": "Article URL: https://www.neowin.net/news/qwen-36-is-now-much-easier-to-run-locally-on-your-mac-thanks-to-jetbrains/ Comments URL: https://news.ycombinator.com/item?id=49424951 Points: 30 # Comments: 10",
+      "tags": []
+    },
+    {
+      "date": "2026-08-24",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "We Optimized the Qwen 3.6 Model for Our Junie Agent",
+      "url": "https://blog.jetbrains.com/junie/2026/08/qwen-for-junie/",
+      "summary": "Article URL: https://blog.jetbrains.com/junie/2026/08/qwen-for-junie/ Comments URL: https://news.ycombinator.com/item?id=49423889 Points: 2 # Comments: 0",
+      "tags": []
+    },
     {
       "date": "2026-08-23",
       "agent": "hermes",
@@ -21,6 +61,16 @@
       "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
       "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
       "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-08-23",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
+      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+      "summary": "Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/ Comments URL: https://news.ycombinator.com/item?id=49407507 Points: 359 # Comments: 147",
       "tags": []
     },
     {
