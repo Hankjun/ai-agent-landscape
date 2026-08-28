@@ -1,6 +1,6 @@
 {
   "schema": "1.0",
-  "updated": "2026-08-27",
+  "updated": "2026-08-28",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
     {
@@ -144,6 +144,26 @@
       "tags": []
     },
     {
+      "date": "2026-08-26",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "MiniMax H3 Max sets the new Pareto Frontier for video generation",
+      "url": "https://twitter.com/DesignArena/status/2092711778815983886",
+      "summary": "Article URL: https://twitter.com/DesignArena/status/2092711778815983886 Comments URL: https://news.ycombinator.com/item?id=49456762 Points: 3 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-26",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "China's MiniMax sees revenue nearly quadruple in first half as AI demand surges",
+      "url": "https://www.reuters.com/world/china/chinas-minimax-sees-revenue-nearly-quadruple-first-half-ai-demand-surges-2026-08-26/",
+      "summary": "Article URL: https://www.reuters.com/world/china/chinas-minimax-sees-revenue-nearly-quadruple-first-half-ai-demand-surges-2026-08-26/ Comments URL: https://news.ycombinator.com/item?id=49448842 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
       "date": "2026-08-25",
       "agent": "gemini",
       "source_type": "官方博客",
@@ -171,6 +191,26 @@
       "title": "5 ways to upgrade your home decor with Google Search",
       "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
       "summary": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-25",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "Show HN: MiniMax H3 – Turn text and images into AI video clips",
+      "url": "https://minimax3.com/",
+      "summary": "Article URL: https://minimax3.com/ Comments URL: https://news.ycombinator.com/item?id=49439577 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-25",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "Nvidia Super Acceleration for MiniMax H3 Video",
+      "url": "https://nvlabs.github.io/Sana/Sol-Engine/H3-Super-Acceleration/",
+      "summary": "Article URL: https://nvlabs.github.io/Sana/Sol-Engine/H3-Super-Acceleration/ Comments URL: https://news.ycombinator.com/item?id=49435520 Points: 4 # Comments: 0",
       "tags": []
     },
     {
