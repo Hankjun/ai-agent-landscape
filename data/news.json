@@ -1,8 +1,18 @@
 {
   "schema": "1.0",
-  "updated": "2026-08-29",
+  "updated": "2026-08-30",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
+    {
+      "date": "2026-08-30",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "tags": []
+    },
     {
       "date": "2026-08-29",
       "agent": "codex",
@@ -31,6 +41,46 @@
       "title": "Expanding OpenAI’s presence in Brazil",
       "url": "https://openai.com/index/expanding-our-presence-in-brazil",
       "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-28",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen 3.8 on 1x32GB Radeon wrote Minecraft clone in 24 hours (Rust, WebGPU, WASM)",
+      "url": "https://qwencraft.home.chrisdell.info/?server=wss://qwencraft.home.chrisdell.info",
+      "summary": "Article URL: https://qwencraft.home.chrisdell.info/?server=wss://qwencraft.home.chrisdell.info Comments URL: https://news.ycombinator.com/item?id=49480259 Points: 3 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-08-28",
+      "agent": "yuanbao",
+      "source_type": "社区",
+      "source_name": "HN: Tencent/Hunyuan",
+      "title": "Tencent Hy4 Preview LLM",
+      "url": "https://github.com/Tencent-Hunyuan/Hy4-preview",
+      "summary": "Article URL: https://github.com/Tencent-Hunyuan/Hy4-preview Comments URL: https://news.ycombinator.com/item?id=49483991 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-28",
+      "agent": "yuanbao",
+      "source_type": "社区",
+      "source_name": "HN: Tencent/Hunyuan",
+      "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "summary": "Article URL: https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/ Comments URL: https://news.ycombinator.com/item?id=49479496 Points: 4 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-28",
+      "agent": "yuanbao",
+      "source_type": "社区",
+      "source_name": "HN: Tencent/Hunyuan",
+      "title": "Tencent Hy4 Preview",
+      "url": "https://openrouter.ai/tencent/hy4-preview",
+      "summary": "Article URL: https://openrouter.ai/tencent/hy4-preview Comments URL: https://news.ycombinator.com/item?id=49475151 Points: 4 # Comments: 0",
       "tags": []
     },
     {
@@ -101,6 +151,16 @@
       "title": "3 new ways to plan and book travel in Search",
       "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
       "summary": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-27",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen/Qwen3.8-Flash-Next · Hugging Face",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+      "summary": "Article URL: https://huggingface.co/Qwen/Qwen3.8-Flash-Next Comments URL: https://news.ycombinator.com/item?id=49459873 Points: 3 # Comments: 0",
       "tags": []
     },
     {
@@ -251,6 +311,26 @@
       "title": "Nvidia Super Acceleration for MiniMax H3 Video",
       "url": "https://nvlabs.github.io/Sana/Sol-Engine/H3-Super-Acceleration/",
       "summary": "Article URL: https://nvlabs.github.io/Sana/Sol-Engine/H3-Super-Acceleration/ Comments URL: https://news.ycombinator.com/item?id=49435520 Points: 4 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-08-25",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+      "url": "https://github.com/ThinkOffApp/CarWatch",
+      "summary": "Found that you can actually run a 35B Qwen model on a Pi with very impressive intelligence and stability. Built connectors for car ODB to read all about car internals, and manufacturer's cloud service for stuff like changing AC or opening/ locking doors. Gave it info such as the ",
+      "tags": []
+    },
+    {
+      "date": "2026-08-25",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
+      "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
+      "summary": "Article URL: https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next Comments URL: https://news.ycombinator.com/item?id=49432317 Points: 335 # Comments: 171",
       "tags": []
     },
     {
