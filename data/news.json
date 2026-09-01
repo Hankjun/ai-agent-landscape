@@ -1,8 +1,38 @@
 {
   "schema": "1.0",
-  "updated": "2026-08-31",
+  "updated": "2026-09-01",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
+    {
+      "date": "2026-09-01",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Decoding cosmic signals with deep learning and Keras",
+      "url": "https://developers.googleblog.com/decoding-cosmic-signals-with-deep-learning-and-keras/",
+      "summary": "Astroparticle physics sits at the exciting intersection of astrophysics and particle physics and stu...",
+      "tags": []
+    },
+    {
+      "date": "2026-09-01",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill",
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-01",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "tags": []
+    },
     {
       "date": "2026-08-30",
       "agent": "codex",
