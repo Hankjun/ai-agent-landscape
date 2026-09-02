@@ -1,8 +1,38 @@
 {
   "schema": "1.0",
-  "updated": "2026-09-01",
+  "updated": "2026-09-02",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
+    {
+      "date": "2026-09-02",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-09-02",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-09-02",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "summary": "",
+      "tags": []
+    },
     {
       "date": "2026-09-01",
       "agent": "gemini",
@@ -31,6 +61,36 @@
       "title": "A milestone in expanding access to AI",
       "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
       "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "tags": []
+    },
+    {
+      "date": "2026-08-31",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "SlopTV: A livestream of AI slop generated from comments, Minimax H3 on 2x5090",
+      "url": "https://www.youtube.com/watch?v=EQ2RexjIEFE",
+      "summary": "Article URL: https://www.youtube.com/watch?v=EQ2RexjIEFE Comments URL: https://news.ycombinator.com/item?id=49513366 Points: 2 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-08-31",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "Show HN: Highlander – realtime MiniMax FastH3 with audio at $0.02 per second",
+      "url": "https://www.highlander.sh/",
+      "summary": "Article URL: https://www.highlander.sh/ Comments URL: https://news.ycombinator.com/item?id=49507642 Points: 3 # Comments: 2",
+      "tags": []
+    },
+    {
+      "date": "2026-08-31",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "Endless sitcom using Minimax H3 and a turbo LoRA",
+      "url": "https://www.twitch.tv/dereactorwah",
+      "summary": "Article URL: https://www.twitch.tv/dereactorwah Comments URL: https://news.ycombinator.com/item?id=49504884 Points: 5 # Comments: 5",
       "tags": []
     },
     {
