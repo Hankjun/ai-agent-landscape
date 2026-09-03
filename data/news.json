@@ -1,8 +1,108 @@
 {
   "schema": "1.0",
-  "updated": "2026-09-02",
+  "updated": "2026-09-03",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
+    {
+      "date": "2026-09-03",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Qwen3.8-Max-0902 takes second slot on Code Arena beating Claude Opus 5 max",
+      "url": "https://arena.ai/leaderboard/code/webdev",
+      "summary": "Article URL: https://arena.ai/leaderboard/code/webdev Comments URL: https://news.ycombinator.com/item?id=49544285 Points: 3 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-03",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
+      "url": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions/",
+      "summary": "The recent Google for Startups AI Agents Challenge revealed that the most successful multi-agent systems rely on foundational software engineering patterns rather than just raw model power. Winning architectures consistently implemented bidirectional MCP for seamless inter-agent ",
+      "tags": []
+    },
+    {
+      "date": "2026-09-03",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-03",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-03",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra",
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-03",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-03",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "url": "https://openai.com/index/gilbert-tobin",
+      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-03",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-03",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Show HN: DeltaCode – Pure AST beat Qwen's zvec-grep on our test (92% vs 48%)",
+      "url": "https://github.com/aitrailblazer/deltacode-engine",
+      "summary": "Article URL: https://github.com/aitrailblazer/deltacode-engine Comments URL: https://news.ycombinator.com/item?id=49544498 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-03",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "summary": "",
+      "tags": []
+    },
     {
       "date": "2026-09-02",
       "agent": "hermes",
@@ -31,6 +131,116 @@
       "title": "The Open ASR Leaderboard Adds Its First Global South Language",
       "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
       "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-09-02",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Claude made me upgrade to a team subscription, now it sucks",
+      "url": "https://news.ycombinator.com/item?id=49542426",
+      "summary": "Until recently I could buy my engineers gift subs for Max subscriptions. Now I have to use a team plan, but the team plan limits are terrible! 6x pro vs 20x pro with the old Max plan. I'm paying them less money and they're driving me to a competitor. I don't get why this decision",
+      "tags": []
+    },
+    {
+      "date": "2026-09-02",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Run any LLM in t3's Codex and Claude tabs through a local gateway",
+      "url": "https://github.com/0xhsn/proxy-llms",
+      "summary": "Article URL: https://github.com/0xhsn/proxy-llms Comments URL: https://news.ycombinator.com/item?id=49542315 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-02",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "`Co-Authored-By: Claude Opus 5` contradicts this being a hand-written manifesto",
+      "url": "https://github.com/jimmitchell/indiewebispunk.net/issues/1",
+      "summary": "Article URL: https://github.com/jimmitchell/indiewebispunk.net/issues/1 Comments URL: https://news.ycombinator.com/item?id=49541921 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-02",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Prompting Claude Fable 5.1",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-1",
+      "summary": "Article URL: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-1 Comments URL: https://news.ycombinator.com/item?id=49541643 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-02",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Building Commerce Agents with Claude",
+      "url": "https://claude.com/blog/claude-for-commerce-agents",
+      "summary": "Article URL: https://claude.com/blog/claude-for-commerce-agents Comments URL: https://news.ycombinator.com/item?id=49541349 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-02",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Anthropic Has Some Alignment Problems",
+      "url": "https://thezvi.substack.com/p/anthropic-has-some-alignment-problems",
+      "summary": "Article URL: https://thezvi.substack.com/p/anthropic-has-some-alignment-problems Comments URL: https://news.ycombinator.com/item?id=49540839 Points: 8 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-02",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Claude config-drift-checker: CI for your Claude.md, skills and hooks",
+      "url": "https://github.com/jameskomo/config-drift-checker.",
+      "summary": "Article URL: https://github.com/jameskomo/config-drift-checker. Comments URL: https://news.ycombinator.com/item?id=49540330 Points: 3 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-02",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Claude Code session limits are jacked up with Fable 5.1",
+      "url": "https://twitter.com/doodlestein/status/2095001666785305066",
+      "summary": "Article URL: https://twitter.com/doodlestein/status/2095001666785305066 Comments URL: https://news.ycombinator.com/item?id=49540001 Points: 3 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-09-02",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Anthropic launches AI agent blueprints for retailers ahead of holiday shopping",
+      "url": "https://www.reuters.com/business/retail-consumer/anthropic-launches-ai-agent-blueprints-retailers-ahead-holiday-shopping-season-2026-09-02/",
+      "summary": "Article URL: https://www.reuters.com/business/retail-consumer/anthropic-launches-ai-agent-blueprints-retailers-ahead-holiday-shopping-season-2026-09-02/ Comments URL: https://news.ycombinator.com/item?id=49539611 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-02",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "summary": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-02",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Inference-only expert boost saves 8.5% reasoning tokens in Qwen 35B MoE",
+      "url": "https://zenodo.org/records/22255483",
+      "summary": "Article URL: https://zenodo.org/records/22255483 Comments URL: https://news.ycombinator.com/item?id=49543274 Points: 2 # Comments: 0",
       "tags": []
     },
     {
@@ -64,6 +274,26 @@
       "tags": []
     },
     {
+      "date": "2026-09-01",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "The latest AI news we announced in August 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "summary": "Here are Google’s latest AI updates from August 2026",
+      "tags": []
+    },
+    {
+      "date": "2026-09-01",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+      "tags": []
+    },
+    {
       "date": "2026-08-31",
       "agent": "minimax",
       "source_type": "社区",
@@ -91,6 +321,16 @@
       "title": "Endless sitcom using Minimax H3 and a turbo LoRA",
       "url": "https://www.twitch.tv/dereactorwah",
       "summary": "Article URL: https://www.twitch.tv/dereactorwah Comments URL: https://news.ycombinator.com/item?id=49504884 Points: 5 # Comments: 5",
+      "tags": []
+    },
+    {
+      "date": "2026-08-31",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "The Llama.cpp Fork That Enables Qwen 3.8 27B Large Contexts for 16GB VRAM GPU",
+      "url": "https://github.com/RaymondHuang210129/llama.cpp-adaptive-kv-streaming",
+      "summary": "Article URL: https://github.com/RaymondHuang210129/llama.cpp-adaptive-kv-streaming Comments URL: https://news.ycombinator.com/item?id=49511882 Points: 5 # Comments: 2",
       "tags": []
     },
     {
