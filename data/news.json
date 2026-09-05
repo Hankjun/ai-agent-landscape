@@ -1,8 +1,18 @@
 {
   "schema": "1.0",
-  "updated": "2026-09-04",
+  "updated": "2026-09-05",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
+    {
+      "date": "2026-09-05",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Driving Developer Excellence: Inside the Program Sprints",
+      "url": "https://developers.googleblog.com/driving-developer-excellence-inside-the-program-sprints/",
+      "summary": "The Gemini Enterprise Developer Experience (DevEx) program conducts ongoing sprint testing of end-to-end developer workflows to identify and rapidly resolve friction points without relying on internal shortcuts. This recent sprint focused on optimizing enterprise AI governance, i",
+      "tags": []
+    },
     {
       "date": "2026-09-04",
       "agent": "codex",
@@ -81,6 +91,116 @@
       "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
       "url": "https://huggingface.co/blog/train-to-paint-with-code",
       "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-09-04",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "summary": "Article URL: https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90 Comments URL: https://news.ycombinator.com/item?id=49571465 Points: 19 # Comments: 4",
+      "tags": []
+    },
+    {
+      "date": "2026-09-04",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Claude Code skills for advanced context engineering techniques and patterns",
+      "url": "https://github.com/NeoLabHQ/context-engineering-kit",
+      "summary": "Article URL: https://github.com/NeoLabHQ/context-engineering-kit Comments URL: https://news.ycombinator.com/item?id=49571131 Points: 3 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-04",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Gemini vs. Claude: Which AI Model created a better perfume?",
+      "url": "https://www.youtube.com/watch?v=YfFk050AjPw",
+      "summary": "Article URL: https://www.youtube.com/watch?v=YfFk050AjPw Comments URL: https://news.ycombinator.com/item?id=49570720 Points: 1 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-09-04",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Claude Fable 5.1 Benchmark: Draw a Python Reading a Book",
+      "url": "https://realpython.com/ai-benchmark-claude-fable-5-1/",
+      "summary": "Article URL: https://realpython.com/ai-benchmark-claude-fable-5-1/ Comments URL: https://news.ycombinator.com/item?id=49570565 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-04",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Tell HN: Anthropic just reset usage, including Fable",
+      "url": "https://news.ycombinator.com/item?id=49570522",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=49570522 Points: 2 # Comments: 7",
+      "tags": []
+    },
+    {
+      "date": "2026-09-04",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Two random Anthropic allocation resets this week",
+      "url": "https://news.ycombinator.com/item?id=49570445",
+      "summary": "One was when they released Fable 5.1 and makes sense but they just reset allocations again. Why? Comments URL: https://news.ycombinator.com/item?id=49570445 Points: 3 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-09-04",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Fermat's Last Theorem: Anthropic has beaten me to it",
+      "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
+      "summary": "Article URL: https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/ Comments URL: https://news.ycombinator.com/item?id=49570133 Points: 32 # Comments: 2",
+      "tags": []
+    },
+    {
+      "date": "2026-09-04",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Anthropic close to awarding Morgan Stanley and Goldman Sachs top roles in IPO",
+      "url": "https://www.ft.com/content/3c9d0a82-643b-44ef-96a0-74a00e3c72ba",
+      "summary": "Article URL: https://www.ft.com/content/3c9d0a82-643b-44ef-96a0-74a00e3c72ba Comments URL: https://news.ycombinator.com/item?id=49569753 Points: 3 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-04",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: Ccswitch – Switch between multiple Claude Code accounts",
+      "url": "https://github.com/2hmad/ccswitch",
+      "summary": "Article URL: https://github.com/2hmad/ccswitch Comments URL: https://news.ycombinator.com/item?id=49568678 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-04",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Claude Code vs. Codex – For Pentesting",
+      "url": "https://medium.com/@duckwrites/claude-code-vs-codex-for-pentesting-7624290438fa",
+      "summary": "Article URL: https://medium.com/@duckwrites/claude-code-vs-codex-for-pentesting-7624290438fa Comments URL: https://news.ycombinator.com/item?id=49568594 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-04",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Show HN: Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX",
+      "url": "https://sageling.ai/",
+      "summary": "A lot of my non-developer friends still think that AI is basically just Google or something you ask to write something and then copy paste it around... if they use it at all. When I ask them why they don't use the good stuff like Claude Cowork or its competitors, they tell me a f",
       "tags": []
     },
     {
@@ -181,6 +301,26 @@
       "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
       "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
       "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-09-03",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "summary": "Article URL: https://inference-docs.cerebras.ai/models/overview Comments URL: https://news.ycombinator.com/item?id=49554520 Points: 676 # Comments: 223",
+      "tags": []
+    },
+    {
+      "date": "2026-09-03",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen-Drive-1.0",
+      "url": "https://arxiv.org/abs/2609.00111",
+      "summary": "Article URL: https://arxiv.org/abs/2609.00111 Comments URL: https://news.ycombinator.com/item?id=49548460 Points: 2 # Comments: 0",
       "tags": []
     },
     {
