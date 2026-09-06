@@ -1,8 +1,18 @@
 {
   "schema": "1.0",
-  "updated": "2026-09-05",
+  "updated": "2026-09-06",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
+    {
+      "date": "2026-09-06",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "GPT-6 Astra: A new generation of intelligence",
+      "url": "https://openai.com/index/gpt-6-astra",
+      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "tags": []
+    },
     {
       "date": "2026-09-05",
       "agent": "gemini",
@@ -11,6 +21,16 @@
       "title": "Driving Developer Excellence: Inside the Program Sprints",
       "url": "https://developers.googleblog.com/driving-developer-excellence-inside-the-program-sprints/",
       "summary": "The Gemini Enterprise Developer Experience (DevEx) program conducts ongoing sprint testing of end-to-end developer workflows to identify and rapidly resolve friction points without relying on internal shortcuts. This recent sprint focused on optimizing enterprise AI governance, i",
+      "tags": []
+    },
+    {
+      "date": "2026-09-05",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen Drive 1.0: A Vision-Language Foundation Model for Autonomous Driving",
+      "url": "https://github.com/QwenLM/Qwen-Drive-1.0",
+      "summary": "Article URL: https://github.com/QwenLM/Qwen-Drive-1.0 Comments URL: https://news.ycombinator.com/item?id=49577104 Points: 2 # Comments: 0",
       "tags": []
     },
     {
