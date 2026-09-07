@@ -1,8 +1,28 @@
 {
   "schema": "1.0",
-  "updated": "2026-09-06",
+  "updated": "2026-09-07",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
+    {
+      "date": "2026-09-07",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind",
+      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-07",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "tags": []
+    },
     {
       "date": "2026-09-06",
       "agent": "codex",
@@ -11,6 +31,106 @@
       "title": "GPT-6 Astra: A new generation of intelligence",
       "url": "https://openai.com/index/gpt-6-astra",
       "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-06",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: Local audit trail for Claude Code tool calls",
+      "url": "https://github.com/zaghaghi/toolog",
+      "summary": "A dead simple local audit trail for Claude Code tool calls. Energized by a rule-based risk analyser. Give it a llama-cpp compatible GGUF model and it will give you a second opinion on risk locally. Comments URL: https://news.ycombinator.com/item?id=49589526 Points: 1 # Comments: ",
+      "tags": []
+    },
+    {
+      "date": "2026-09-06",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: Yume, a desktop workspace for Claude Code sessions",
+      "url": "https://aofp.github.io/yume/",
+      "summary": "Article URL: https://aofp.github.io/yume/ Comments URL: https://news.ycombinator.com/item?id=49588503 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-06",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "All of Claude's hilarious \"Never Do This\" in Fable 5.1 System Prompt",
+      "url": "https://artifactbin.dev/@vivek/MLWEU6-claude-s-nevers",
+      "summary": "Article URL: https://artifactbin.dev/@vivek/MLWEU6-claude-s-nevers Comments URL: https://news.ycombinator.com/item?id=49588374 Points: 3 # Comments: 2",
+      "tags": []
+    },
+    {
+      "date": "2026-09-06",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Mdmanager.ai – Manage your Claude.md and AGENTS.md across machines and runtimes",
+      "url": "https://github.com/manuelschipper/mdmanager",
+      "summary": "Article URL: https://github.com/manuelschipper/mdmanager Comments URL: https://news.ycombinator.com/item?id=49587839 Points: 3 # Comments: 6",
+      "tags": []
+    },
+    {
+      "date": "2026-09-06",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Cutting (Claude Code) token spend on dynamic workflows 80%",
+      "url": "https://news.ycombinator.com/item?id=49587379",
+      "summary": "Discovered something very interesting by chance a few days ago, and thought it might be interesting for other people running dynamic workflows with claude code. The workflow scripts themselves are javascript. Claude code knows the format and it can make a tool that composes workf",
+      "tags": []
+    },
+    {
+      "date": "2026-09-06",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "The Claude Compiler Is Dead. Long Live the Claude Compiler",
+      "url": "https://thebestworstcase.substack.com/p/the-claude-compiler-is-dead-long",
+      "summary": "Article URL: https://thebestworstcase.substack.com/p/the-claude-compiler-is-dead-long Comments URL: https://news.ycombinator.com/item?id=49586237 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-06",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: Claude-hl – syntax colours for shell commands in Claude Code output",
+      "url": "https://github.com/rashedInt32/claude-hl",
+      "summary": "Article URL: https://github.com/rashedInt32/claude-hl Comments URL: https://news.ycombinator.com/item?id=49586144 Points: 2 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-09-06",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Claude Was Here",
+      "url": "https://www.splitbrain.blog/p/claude-was-here",
+      "summary": "Article URL: https://www.splitbrain.blog/p/claude-was-here Comments URL: https://news.ycombinator.com/item?id=49585770 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-06",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Meet Claude: ABC's new regional cadet journalist",
+      "url": "https://independentaustralia.net/business/business-display/meet-claude-abcs-new-regional-cadet-journalist,21521",
+      "summary": "Article URL: https://independentaustralia.net/business/business-display/meet-claude-abcs-new-regional-cadet-journalist,21521 Comments URL: https://news.ycombinator.com/item?id=49584944 Points: 5 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-06",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Stemma – one source of truth for Claude.md, AGENTS.md and Copilot",
+      "url": "https://github.com/alexvinola/stemma-cli",
+      "summary": "Article URL: https://github.com/alexvinola/stemma-cli Comments URL: https://news.ycombinator.com/item?id=49584898 Points: 2 # Comments: 0",
       "tags": []
     },
     {
