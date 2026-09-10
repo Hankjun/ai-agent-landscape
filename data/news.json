@@ -1,8 +1,278 @@
 {
   "schema": "1.0",
-  "updated": "2026-09-08",
+  "updated": "2026-09-10",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
+    {
+      "date": "2026-09-10",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Anthropic discloses fourth AI hacking incident missed in earlier review",
+      "url": "https://www.reuters.com/legal/litigation/anthropic-reports-fourth-cybersecurity-incident-with-early-version-claude-2026-09-09/",
+      "summary": "Article URL: https://www.reuters.com/legal/litigation/anthropic-reports-fourth-cybersecurity-incident-with-early-version-claude-2026-09-09/ Comments URL: https://news.ycombinator.com/item?id=49636547 Points: 3 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-10",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "The Anatomy of Harness Engineering: How to Evaluate, Iterate, and Guard AI Coding Agents",
+      "url": "https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/",
+      "summary": "While end-to-end benchmarks like SWE-bench provide broad performance scores for AI agents, they are often expensive, slow, and lack the root-cause diagnostics needed to explain exactly where an agent's logic broke down. To solve this, developers should adopt behavioral evaluation",
+      "tags": []
+    },
+    {
+      "date": "2026-09-10",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Announcing ADK for Kotlin 1.0: Building Production-Ready AI Agents in Kotlin, Android, and Beyond",
+      "url": "https://developers.googleblog.com/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/",
+      "summary": "Google has officially released version 1.0 of the Agent Development Kit (ADK) for Kotlin, achieving full feature parity with the Python and Java ADK cores to enable idiomatic, multi-agent AI development. Built on Kotlin Multiplatform (KMP), the framework leverages Kotlin Symbol P",
+      "tags": []
+    },
+    {
+      "date": "2026-09-10",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "The AI policy window is open. We need to act.",
+      "url": "https://openai.com/index/ai-policy-window",
+      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-10",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-10",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-10",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-10",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "The Work Now Within Reach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-10",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-10",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-10",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Funding grants for new research into AI and teen development",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-10",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-10",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "1Password increases engineering productivity 21% with Codex",
+      "url": "https://openai.com/index/1password",
+      "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-10",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-09-10",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-09-09",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "GPT-6 Astra is better at making money, more ethical than Claude Fable 5.1",
+      "url": "https://twitter.com/andonlabs/status/2097377692966633952",
+      "summary": "Article URL: https://twitter.com/andonlabs/status/2097377692966633952 Comments URL: https://news.ycombinator.com/item?id=49633566 Points: 5 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-09",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Mins after I cancelled my Claude subscription I was rejected from Anthropic",
+      "url": "https://twitter.com/par_dot_dev/status/2097777825369530450",
+      "summary": "Article URL: https://twitter.com/par_dot_dev/status/2097777825369530450 Comments URL: https://news.ycombinator.com/item?id=49633359 Points: 3 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-09",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "LittleSwitch, my personnal router for Claude/Codex (Desktop/CLI/Cowork) on macOS",
+      "url": "https://little-switch.alfredlabs.io",
+      "summary": "Article URL: https://little-switch.alfredlabs.io Comments URL: https://news.ycombinator.com/item?id=49632286 Points: 2 # Comments: 3",
+      "tags": []
+    },
+    {
+      "date": "2026-09-09",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Contextify for Windows – Live Index of Your Claude Code/Codex History",
+      "url": "https://contextify.sh/windows/",
+      "summary": "Article URL: https://contextify.sh/windows/ Comments URL: https://news.ycombinator.com/item?id=49631979 Points: 3 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-09-09",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Responding to Claude's feedback prompts is opting-in for data sharing",
+      "url": "https://privacy.claude.com/en/articles/10023580-is-my-data-used-for-model-training",
+      "summary": "Article URL: https://privacy.claude.com/en/articles/10023580-is-my-data-used-for-model-training Comments URL: https://news.ycombinator.com/item?id=49631967 Points: 1 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-09-09",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Anthropic Researchers Raise Alarm over A.I. Acceleration",
+      "url": "https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html Comments URL: https://news.ycombinator.com/item?id=49630917 Points: 3 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-09-09",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+      "url": "https://github.com/OtoDock/oto-dock",
+      "summary": "Hi HN, I am Dimitris. This is a company OS that I built and use to run my business and anyone can install it and self host it for free. Think of it as Claude Code, Cowork and the cloud sessions in one self hosted application. It is a Multi-tenant application by design where many ",
+      "tags": []
+    },
+    {
+      "date": "2026-09-09",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: Hordev – Claude Code skills that build instead of asking questions",
+      "url": "https://github.com/heffrey/hordev",
+      "summary": "Article URL: https://github.com/heffrey/hordev Comments URL: https://news.ycombinator.com/item?id=49630355 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-09",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Use 1Password to sign in to websites with Claude",
+      "url": "https://support.1password.com/1password-claude/",
+      "summary": "Article URL: https://support.1password.com/1password-claude/ Comments URL: https://news.ycombinator.com/item?id=49630045 Points: 3 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-09-09",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "Get ready for the game with new football features in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-09",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "Recreating a 70-year love story frame by frame",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
+      "tags": []
+    },
+    {
+      "date": "2026-09-09",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "summary": "Article URL: https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3 Comments URL: https://news.ycombinator.com/item?id=49630026 Points: 163 # Comments: 69",
+      "tags": []
+    },
     {
       "date": "2026-09-08",
       "agent": "codex",
@@ -11,6 +281,26 @@
       "title": "Supporting independent journalism in Ukraine",
       "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
       "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-08",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "DeepSeek/Qwen are surprisingly well at generating code for DSCI pipelines",
+      "url": "https://chat.deepseek.com/share/jg3hcnatoliqs1ct5i",
+      "summary": "Article URL: https://chat.deepseek.com/share/jg3hcnatoliqs1ct5i Comments URL: https://news.ycombinator.com/item?id=49606135 Points: 4 # Comments: 3",
+      "tags": []
+    },
+    {
+      "date": "2026-09-08",
+      "agent": "doubao",
+      "source_type": "社区",
+      "source_name": "HN: ByteDance/Doubao/Coze",
+      "title": "ByteDance entering the world models race",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/bytedance-founder-joins-ai-elite-in-race-to-perfect-world-models",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-07/bytedance-founder-joins-ai-elite-in-race-to-perfect-world-models Comments URL: https://news.ycombinator.com/item?id=49611835 Points: 1 # Comments: 0",
       "tags": []
     },
     {
@@ -31,6 +321,16 @@
       "title": "Research acceleration: The view inside OpenAI",
       "url": "https://openai.com/index/research-acceleration-view-inside-openai",
       "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-07",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Peer-to-peer LLM inference in browser tabs, Qwen 3.8 27B",
+      "url": "https://github.com/Nehanth/swarmllm",
+      "summary": "Article URL: https://github.com/Nehanth/swarmllm Comments URL: https://news.ycombinator.com/item?id=49602451 Points: 5 # Comments: 0",
       "tags": []
     },
     {
@@ -141,6 +441,26 @@
       "title": "Stemma – one source of truth for Claude.md, AGENTS.md and Copilot",
       "url": "https://github.com/alexvinola/stemma-cli",
       "summary": "Article URL: https://github.com/alexvinola/stemma-cli Comments URL: https://news.ycombinator.com/item?id=49584898 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-06",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen-Scope: Decoding Intelligence, Unleashing Potential",
+      "url": "https://qwen.ai/blog?id=qwen-scope",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen-scope Comments URL: https://news.ycombinator.com/item?id=49587647 Points: 4 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-06",
+      "agent": "doubao",
+      "source_type": "社区",
+      "source_name": "HN: ByteDance/Doubao/Coze",
+      "title": "ByteX: A Unified AI Search Engine at ByteDance",
+      "url": "https://arxiv.org/abs/2608.30607",
+      "summary": "Article URL: https://arxiv.org/abs/2608.30607 Comments URL: https://news.ycombinator.com/item?id=49589276 Points: 3 # Comments: 1",
       "tags": []
     },
     {
