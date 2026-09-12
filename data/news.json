@@ -1,8 +1,38 @@
 {
   "schema": "1.0",
-  "updated": "2026-09-11",
+  "updated": "2026-09-12",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
+    {
+      "date": "2026-09-12",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-12",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-12",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "tags": []
+    },
     {
       "date": "2026-09-11",
       "agent": "codex",
@@ -71,6 +101,106 @@
       "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
       "url": "https://huggingface.co/blog/gradio-workflow-1111",
       "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-09-11",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Anthropic says Claude was used for weapons, spying and cyber operations",
+      "url": "https://www.reuters.com/world/china/how-anthropic-says-claude-was-used-weapons-spying-cyber-operations-2026-09-11/",
+      "summary": "Article URL: https://www.reuters.com/world/china/how-anthropic-says-claude-was-used-weapons-spying-cyber-operations-2026-09-11/ Comments URL: https://news.ycombinator.com/item?id=49666795 Points: 4 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-11",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Houthis used Anthropic to develop guided weapons",
+      "url": "https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says/",
+      "summary": "Article URL: https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says/ Comments URL: https://news.ycombinator.com/item?id=49666425 Points: 18 # Comments: 6",
+      "tags": []
+    },
+    {
+      "date": "2026-09-11",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Houthis used Anthropic AI to build ballistic missiles",
+      "url": "https://www.ft.com/content/8310cf56-ce60-4e6e-8254-5bb470e9a880",
+      "summary": "Article URL: https://www.ft.com/content/8310cf56-ce60-4e6e-8254-5bb470e9a880 Comments URL: https://news.ycombinator.com/item?id=49666402 Points: 7 # Comments: 4",
+      "tags": []
+    },
+    {
+      "date": "2026-09-11",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Adversaries Using Claude AI to Target Americans and Develop Missiles",
+      "url": "https://www.twz.com/news-features/adversaries-using-claude-ai-to-target-americans-and-develop-missiles-is-a-sign-of-whats-to-come",
+      "summary": "Article URL: https://www.twz.com/news-features/adversaries-using-claude-ai-to-target-americans-and-develop-missiles-is-a-sign-of-whats-to-come Comments URL: https://news.ycombinator.com/item?id=49666327 Points: 3 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-11",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Anthropic released a CLI to evaluate skills and plugins",
+      "url": "https://code.claude.com/docs/en/plugin-evals",
+      "summary": "Article URL: https://code.claude.com/docs/en/plugin-evals Comments URL: https://news.ycombinator.com/item?id=49666190 Points: 3 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-09-11",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: Claude Read Aloud – Hear Claude's Replies Instead of Reading",
+      "url": "https://github.com/MichaelPGifford/claude-read-aloud",
+      "summary": "When I'm working all day sometimes my eyes get tired and I don't read Claude's replies fully and understand them. So I made Claude Read Aloud to read Claude's replies for me. It's very helpful for when I'm running on low energy and I think it can also be helpful for people who ar",
+      "tags": []
+    },
+    {
+      "date": "2026-09-11",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Claude AI used for missile, influence projects in UAE, Iran, Yemen: Anthropic",
+      "url": "https://www.al-monitor.com/originals/2026/09/claude-ai-used-missile-influence-projects-uae-iran-yemen-anthropic",
+      "summary": "Article URL: https://www.al-monitor.com/originals/2026/09/claude-ai-used-missile-influence-projects-uae-iran-yemen-anthropic Comments URL: https://news.ycombinator.com/item?id=49664145 Points: 8 # Comments: 3",
+      "tags": []
+    },
+    {
+      "date": "2026-09-11",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Terminal velocity: the shell tools that make Claude Code fly",
+      "url": "https://nearform.com/digital-community/terminal-velocity-the-shell-tools-that-make-claude-code-fly/",
+      "summary": "Article URL: https://nearform.com/digital-community/terminal-velocity-the-shell-tools-that-make-claude-code-fly/ Comments URL: https://news.ycombinator.com/item?id=49663123 Points: 3 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-11",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "summary": "Article URL: https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/ Comments URL: https://news.ycombinator.com/item?id=49662941 Points: 11 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-09-11",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "How popular is the name Claude?",
+      "url": "https://censuseasy.com/blog/how-popular-is-the-name-claude",
+      "summary": "Article URL: https://censuseasy.com/blog/how-popular-is-the-name-claude Comments URL: https://news.ycombinator.com/item?id=49661497 Points: 2 # Comments: 0",
       "tags": []
     },
     {
@@ -754,6 +884,16 @@
       "tags": []
     },
     {
+      "date": "2026-09-04",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "Max H3 – MiniMax H3 Max AI Video Generator",
+      "url": "https://www.maxh3.com/",
+      "summary": "Article URL: https://www.maxh3.com/ Comments URL: https://news.ycombinator.com/item?id=49560927 Points: 3 # Comments: 0",
+      "tags": []
+    },
+    {
       "date": "2026-09-03",
       "agent": "claude",
       "source_type": "社区",
@@ -881,6 +1021,16 @@
       "title": "Tencent Cloud Code Analysisis: comprehensive code analysis and issue tracking",
       "url": "https://github.com/Tencent/CodeAnalysis",
       "summary": "Article URL: https://github.com/Tencent/CodeAnalysis Comments URL: https://news.ycombinator.com/item?id=49550002 Points: 3 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-03",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "Show HN: MusicMaxxer – a songwriter's MiniMax Music 3 UI",
+      "url": "https://github.com/DexterLagan/MusicMaxxer",
+      "summary": "Tired of paying for Suno, I made this local desktop app for Windows and macOS to generate songs through MiniMax's hosted Music API (free for up to 3 songs/minute!). I wanted something tailor-made for a songwriter, so I implemented some QoL features to make rhyme-making easier. Co",
       "tags": []
     },
     {
