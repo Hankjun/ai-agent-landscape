@@ -1,6 +1,6 @@
 {
   "schema": "1.0",
-  "updated": "2026-09-13",
+  "updated": "2026-09-14",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
     {
@@ -11,6 +11,106 @@
       "title": "Autonomous LLM post-training with Tunix on TPUs",
       "url": "https://developers.googleblog.com/autonomous-llm-post-training-with-tunix-on-tpus/",
       "summary": "Imagine going to sleep after writing a single Markdown specification and waking up to find that an A...",
+      "tags": []
+    },
+    {
+      "date": "2026-09-13",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "OpenAI and Anthropic Hit the Brakes",
+      "url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
+      "summary": "Article URL: https://www.axios.com/2026/09/13/ai-labs-regulation-safety Comments URL: https://news.ycombinator.com/item?id=49690073 Points: 2 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-09-13",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Claude Fable 5.1 cracked a cipher that has survived for 370 years in 40 min.",
+      "url": "https://osintsights.com/ai-deciphers-370-year-old-cipher-in-minutes",
+      "summary": "Article URL: https://osintsights.com/ai-deciphers-370-year-old-cipher-in-minutes Comments URL: https://news.ycombinator.com/item?id=49688595 Points: 4 # Comments: 2",
+      "tags": []
+    },
+    {
+      "date": "2026-09-13",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Trump rejects call by CEOs of Anthropic, OpenAI and xAI to slow AI down",
+      "url": "https://www.yahoo.com/news/us/article/trump-rejects-call-by-ceos-of-anthropic-openai-and-xai-to-slow-ai-down-whoever-wins-with-ai-wins-182008851.html",
+      "summary": "Article URL: https://www.yahoo.com/news/us/article/trump-rejects-call-by-ceos-of-anthropic-openai-and-xai-to-slow-ai-down-whoever-wins-with-ai-wins-182008851.html Comments URL: https://news.ycombinator.com/item?id=49687013 Points: 18 # Comments: 19",
+      "tags": []
+    },
+    {
+      "date": "2026-09-13",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Anthropic Selects Nasdaq for IPO, Business Insider Reports",
+      "url": "https://www.reuters.com/business/anthropic-selects-nasdaq-ipo-business-insider-reports-2026-09-13/",
+      "summary": "Article URL: https://www.reuters.com/business/anthropic-selects-nasdaq-ipo-business-insider-reports-2026-09-13/ Comments URL: https://news.ycombinator.com/item?id=49686776 Points: 2 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-09-13",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "What David Sachs Got Right About the Anthropic Resignation",
+      "url": "https://newsletter.amuseonx.com/p/follow-the-power-what-david-sacks",
+      "summary": "Article URL: https://newsletter.amuseonx.com/p/follow-the-power-what-david-sacks Comments URL: https://news.ycombinator.com/item?id=49686355 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-13",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "summary": "Article URL: https://twitter.com/DavidSacks/status/2098973625252708460 Comments URL: https://news.ycombinator.com/item?id=49685991 Points: 236 # Comments: 184",
+      "tags": []
+    },
+    {
+      "date": "2026-09-13",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Anthropic CEO Calls for A.I. Slowdown",
+      "url": "https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html Comments URL: https://news.ycombinator.com/item?id=49685881 Points: 2 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-09-13",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "summary": "Article URL: https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/ Comments URL: https://news.ycombinator.com/item?id=49685132 Points: 3 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-13",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Claude artifacts can now save themselves and share a realtime database",
+      "url": "https://chaosguru.substack.com/p/anthropics-google-docs-killer-is",
+      "summary": "Article URL: https://chaosguru.substack.com/p/anthropics-google-docs-killer-is Comments URL: https://news.ycombinator.com/item?id=49684460 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-13",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Houthis used Claude Code to develop missile guidance software: Anthropic",
+      "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+      "summary": "Article URL: https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo Comments URL: https://news.ycombinator.com/item?id=49684266 Points: 92 # Comments: 84",
       "tags": []
     },
     {
