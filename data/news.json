@@ -1,8 +1,68 @@
 {
   "schema": "1.0",
-  "updated": "2026-09-14",
+  "updated": "2026-09-15",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
+    {
+      "date": "2026-09-15",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-15",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-09-14",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+      "summary": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-14",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "DevFest is back",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+      "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-14",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen Audio Agent – full duplex via ACP",
+      "url": "https://qwenaudio.github.io/qwen-audio-agent/",
+      "summary": "Article URL: https://qwenaudio.github.io/qwen-audio-agent/ Comments URL: https://news.ycombinator.com/item?id=49698617 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-14",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Qwen 3.8 Flash via DwarfStar",
+      "url": "https://twitter.com/antirez/status/2099487927793299936",
+      "summary": "Article URL: https://twitter.com/antirez/status/2099487927793299936 Comments URL: https://news.ycombinator.com/item?id=49697648 Points: 2 # Comments: 0",
+      "tags": []
+    },
     {
       "date": "2026-09-13",
       "agent": "gemini",
@@ -324,6 +384,56 @@
       "tags": []
     },
     {
+      "date": "2026-09-11",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Long form story with Qwen 0.8B",
+      "url": "https://voice.cogumi.com/story-maker/",
+      "summary": "Article URL: https://voice.cogumi.com/story-maker/ Comments URL: https://news.ycombinator.com/item?id=49658107 Points: 1 # Comments: 2",
+      "tags": []
+    },
+    {
+      "date": "2026-09-11",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Mining Qwen 3.8 reasoning trace for prompt/skill evaluation",
+      "url": "https://olegivye.com/#/article/confusion-evaluation",
+      "summary": "Article URL: https://olegivye.com/#/article/confusion-evaluation Comments URL: https://news.ycombinator.com/item?id=49656047 Points: 4 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-11",
+      "agent": "kimi",
+      "source_type": "社区",
+      "source_name": "HN: Moonshot AI",
+      "title": "Moonshot serves Claude instead of Kimi and collects exchanges for model training",
+      "url": "https://twitter.com/DavidAgranovich/status/2098168522862215449",
+      "summary": "https://xcancel.com/DavidAgranovich/status/20981685228622154... Comments URL: https://news.ycombinator.com/item?id=49656698 Points: 66 # Comments: 68",
+      "tags": []
+    },
+    {
+      "date": "2026-09-11",
+      "agent": "kimi",
+      "source_type": "社区",
+      "source_name": "HN: Moonshot AI",
+      "title": "Anthropic is lying: Moonshot is not routing to Claude",
+      "url": "https://twitter.com/trydotworks/status/2098300730805284961",
+      "summary": "Article URL: https://twitter.com/trydotworks/status/2098300730805284961 Comments URL: https://news.ycombinator.com/item?id=49654350 Points: 3 # Comments: 6",
+      "tags": []
+    },
+    {
+      "date": "2026-09-11",
+      "agent": "kimi",
+      "source_type": "社区",
+      "source_name": "HN: Moonshot AI",
+      "title": "DeepSeek and Moonshot were quietly relaying customer prompts to Claude",
+      "url": "https://twitter.com/IntCyberDigest/status/2098149671957103005",
+      "summary": "Article URL: https://twitter.com/IntCyberDigest/status/2098149671957103005 Comments URL: https://news.ycombinator.com/item?id=49653063 Points: 6 # Comments: 2",
+      "tags": []
+    },
+    {
       "date": "2026-09-10",
       "agent": "claude",
       "source_type": "社区",
@@ -481,6 +591,26 @@
       "title": "3 ways to prep for your next big race with Search",
       "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
       "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-10",
+      "agent": "kimi",
+      "source_type": "社区",
+      "source_name": "HN: Moonshot AI",
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "summary": "Article URL: https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/ Comments URL: https://news.ycombinator.com/item?id=49650135 Points: 7 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-09-10",
+      "agent": "kimi",
+      "source_type": "社区",
+      "source_name": "HN: Moonshot AI",
+      "title": "Moonshot Routed User Requests Through Claude, Anthropic Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-10/moonshot-secretly-routed-user-requests-through-claude-anthropic-says Comments URL: https://news.ycombinator.com/item?id=49647951 Points: 4 # Comments: 1",
       "tags": []
     },
     {
@@ -671,6 +801,16 @@
       "title": "Peer-to-peer LLM inference in browser tabs, Qwen 3.8 27B",
       "url": "https://github.com/Nehanth/swarmllm",
       "summary": "Article URL: https://github.com/Nehanth/swarmllm Comments URL: https://news.ycombinator.com/item?id=49602451 Points: 5 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-07",
+      "agent": "kimi",
+      "source_type": "社区",
+      "source_name": "HN: Moonshot AI",
+      "title": "A playable piano on Moonshot AI's About page",
+      "url": "https://www.moonshot.ai/about",
+      "summary": "Article URL: https://www.moonshot.ai/about Comments URL: https://news.ycombinator.com/item?id=49597470 Points: 2 # Comments: 1",
       "tags": []
     },
     {
