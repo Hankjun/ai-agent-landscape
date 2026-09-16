@@ -1,6 +1,6 @@
 {
   "schema": "1.0",
-  "updated": "2026-09-15",
+  "updated": "2026-09-16",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
     {
@@ -21,6 +21,146 @@
       "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
       "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
       "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-09-15",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: Open-source tool to sell your Claude Code and Codex sessions",
+      "url": "https://github.com/cookiy-ai/sell-sessions-skill",
+      "summary": "Article URL: https://github.com/cookiy-ai/sell-sessions-skill Comments URL: https://news.ycombinator.com/item?id=49720176 Points: 1 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-09-15",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Salesforce in Claude",
+      "url": "https://claude.com/blog/salesforce-in-claude",
+      "summary": "Article URL: https://claude.com/blog/salesforce-in-claude Comments URL: https://news.ycombinator.com/item?id=49719982 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-15",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Anthropic Confirms Claude AI Use in Weapons and Surveillance",
+      "url": "https://thedefensepost.com/2026/09/15/anthropic-claude-weapons-surveillance/",
+      "summary": "Article URL: https://thedefensepost.com/2026/09/15/anthropic-claude-weapons-surveillance/ Comments URL: https://news.ycombinator.com/item?id=49719891 Points: 3 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-15",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Move AI chats across harnesses: Claude Code, Codex, OpenCode, Cursor, and more",
+      "url": "https://github.com/skillsynchq/txcript",
+      "summary": "Article URL: https://github.com/skillsynchq/txcript Comments URL: https://news.ycombinator.com/item?id=49719696 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-15",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "I asked Claude to build AI generator on my own hardware",
+      "url": "https://easypeasyvideo.com",
+      "summary": "Article URL: https://easypeasyvideo.com Comments URL: https://news.ycombinator.com/item?id=49719191 Points: 1 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-09-15",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Claude Roulette – chat with strangers while you slop",
+      "url": "https://tomjohnell.com/claude-roulette-chat-with-strangers-while-you-slop/",
+      "summary": "Article URL: https://tomjohnell.com/claude-roulette-chat-with-strangers-while-you-slop/ Comments URL: https://news.ycombinator.com/item?id=49719084 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-15",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Open-Source Skill Makes Claude Code 38% Cheaper and 38% Faster on Small Projects",
+      "url": "https://vmysla.substack.com/p/product-traceability-20-makes-claude",
+      "summary": "Article URL: https://vmysla.substack.com/p/product-traceability-20-makes-claude Comments URL: https://news.ycombinator.com/item?id=49718759 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-15",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: Inkling – ask Claude Code for a doc, get HTML instead of Markdown",
+      "url": "https://github.com/MeetVys/inkling",
+      "summary": "Article URL: https://github.com/MeetVys/inkling Comments URL: https://news.ycombinator.com/item?id=49718056 Points: 1 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-09-15",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "How to use open models with Claude Code",
+      "url": "https://dev.nebius.com/cookbook/claude-code-token-factory-relay",
+      "summary": "Article URL: https://dev.nebius.com/cookbook/claude-code-token-factory-relay Comments URL: https://news.ycombinator.com/item?id=49716840 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-15",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "OpenAI Says It's Working with Anthropic, Google on AI Safety",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-15/openai-says-it-s-working-with-anthropic-google-on-ai-safety",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-09-15/openai-says-it-s-working-with-anthropic-google-on-ai-safety Comments URL: https://news.ycombinator.com/item?id=49716805 Points: 3 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-09-15",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "AI for Societal Impact",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "summary": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-15",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "Building AI to accelerate science and improve lives",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+      "summary": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+      "tags": []
+    },
+    {
+      "date": "2026-09-15",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "AI for everyone in every language",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "summary": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-15",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
       "tags": []
     },
     {
