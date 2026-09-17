@@ -1,8 +1,118 @@
 {
   "schema": "1.0",
-  "updated": "2026-09-16",
+  "updated": "2026-09-17",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
+    {
+      "date": "2026-09-17",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Agent Anomaly Detection, now in Private Preview on the Gemini Enterprise Agent Platform",
+      "url": "https://developers.googleblog.com/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform/",
+      "summary": "Agent Anomaly Detection is a new, out-of-band oversight layer for the Gemini Enterprise Agent Platform that analyzes OpenTelemetry traces and tool calls to catch behavioral risks without adding runtime latency to live requests. It utilizes a multi-tiered detection pipeline—combin",
+      "tags": []
+    },
+    {
+      "date": "2026-09-17",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Build zero-trust AI agents that judge intent, not just syntax",
+      "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-that-judge-intent-not-just-syntax/",
+      "summary": "This blog post explores how to transition AI agents from static, build-time security controls to dynamic runtime governance using the Gemini Enterprise Agent Platform. It highlights three primary managed defenses: Model Armor for screening edge prompts, Semantic Governance Polici",
+      "tags": []
+    },
+    {
+      "date": "2026-09-17",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-17",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-17",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "How to connect AI usage to business value",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-17",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Our framework for reporting model misalignment",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-17",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "How workers are unlocking new ways of working",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-17",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-09-16",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Typesafe.ai Jev Open Source Alternative Qwen-2.5-1B-RLCD",
+      "url": "https://huggingface.co/spaces/drinkmoonshine/parallel-constrained-decoding",
+      "summary": "Article URL: https://huggingface.co/spaces/drinkmoonshine/parallel-constrained-decoding Comments URL: https://news.ycombinator.com/item?id=49734345 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-16",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Operating System powered by Qwen 3.8 27B at 1950 tokens/SEC",
+      "url": "https://twitter.com/analogalok/status/2099130228866228368",
+      "summary": "Article URL: https://twitter.com/analogalok/status/2099130228866228368 Comments URL: https://news.ycombinator.com/item?id=49726305 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-16",
+      "agent": "qwen",
+      "source_type": "社区",
+      "source_name": "HN: Qwen",
+      "title": "Replicating Jev with Qwen-2.5",
+      "url": "https://nitter.perennialte.ch/harshagundal/status/2100044305536889015",
+      "summary": "Article URL: https://nitter.perennialte.ch/harshagundal/status/2100044305536889015 Comments URL: https://news.ycombinator.com/item?id=49722091 Points: 3 # Comments: 0",
+      "tags": []
+    },
     {
       "date": "2026-09-15",
       "agent": "codex",
