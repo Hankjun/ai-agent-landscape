@@ -1,8 +1,58 @@
 {
   "schema": "1.0",
-  "updated": "2026-09-21",
+  "updated": "2026-09-22",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
+    {
+      "date": "2026-09-22",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-22",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-22",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Building standards for the next phase of AI",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-22",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-22",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "How V7 gives AI agents institutional memory",
+      "url": "https://openai.com/index/v7",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "tags": []
+    },
     {
       "date": "2026-09-20",
       "agent": "codex",
@@ -71,6 +121,16 @@
       "title": "Co-creating the future of fashion with Google",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
       "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-18",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "HyperFlow – one LoRA for all MiniMax-H3 tasks (ref2va/t2va/fl2va)",
+      "url": "https://github.com/Video-Rebirth/hyperflow",
+      "summary": "Article URL: https://github.com/Video-Rebirth/hyperflow Comments URL: https://news.ycombinator.com/item?id=49756840 Points: 2 # Comments: 0",
       "tags": []
     },
     {
@@ -201,6 +261,16 @@
       "title": "Replicating Jev with Qwen-2.5",
       "url": "https://nitter.perennialte.ch/harshagundal/status/2100044305536889015",
       "summary": "Article URL: https://nitter.perennialte.ch/harshagundal/status/2100044305536889015 Comments URL: https://news.ycombinator.com/item?id=49722091 Points: 3 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-16",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "MiniMax H3 Max Prompts",
+      "url": "https://github.com/VulcanEon/awesome-minimax-h3-max-prompts",
+      "summary": "Article URL: https://github.com/VulcanEon/awesome-minimax-h3-max-prompts Comments URL: https://news.ycombinator.com/item?id=49724101 Points: 1 # Comments: 0",
       "tags": []
     },
     {
@@ -361,6 +431,16 @@
       "title": "New insights from Google’s AI & Economy ATLAS",
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
       "summary": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-15",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "MiniMax H3: measured cost per clip on seven rented GPUs at four providers",
+      "url": "https://qrun.cloud/measurements",
+      "summary": "Article URL: https://qrun.cloud/measurements Comments URL: https://news.ycombinator.com/item?id=49711906 Points: 2 # Comments: 0",
       "tags": []
     },
     {
