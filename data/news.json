@@ -1,8 +1,18 @@
 {
   "schema": "1.0",
-  "updated": "2026-09-23",
+  "updated": "2026-09-24",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
+    {
+      "date": "2026-09-23",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+      "tags": []
+    },
     {
       "date": "2026-09-22",
       "agent": "codex",
