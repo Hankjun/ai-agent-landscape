@@ -1,8 +1,108 @@
 {
   "schema": "1.0",
-  "updated": "2026-09-24",
+  "updated": "2026-09-25",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
+    {
+      "date": "2026-09-25",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Two years of OpenAI Academy",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-25",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-25",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-25",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-25",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-25",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-25",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Introducing MentalHealthBench",
+      "url": "https://openai.com/index/introducing-mentalhealthbench",
+      "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-25",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+      "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+      "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-25",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+      "url": "https://openai.com/index/airbnb-gpt-6-astra",
+      "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-25",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
+      "tags": []
+    },
     {
       "date": "2026-09-23",
       "agent": "gemini",
@@ -11,6 +111,26 @@
       "title": "Google Beam expands with new regions, partners, and customers",
       "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
       "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-23",
+      "agent": "doubao",
+      "source_type": "社区",
+      "source_name": "HN: ByteDance/Doubao/Coze",
+      "title": "China's ByteDance gained access to over 2k Nvidia B200 chips through Norway",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/filing-reveals-how-bytedance-gained-access-to-over-2-000-nvidia-b200-chips-through-nscales-norway-data-center-singaporean-subsidiary-spring-contributed-73-percent-of-uk-neoclouds-2025-revenue",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/filing-reveals-how-bytedance-gained-access-to-over-2-000-nvidia-b200-chips-through-nscales-norway-data-center-singaporean-subsidiary-spring-contributed-73-percent-of-uk-neoclouds-2025-revenue Comments URL: https",
+      "tags": []
+    },
+    {
+      "date": "2026-09-23",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "Nunchux on AMD MI355X: 5s MiniMax-H3 Videos in 1.3s",
+      "url": "https://www.nunchux.ai/blog/video-generation-on-amd-mi355x",
+      "summary": "Article URL: https://www.nunchux.ai/blog/video-generation-on-amd-mi355x Comments URL: https://news.ycombinator.com/item?id=49818681 Points: 7 # Comments: 3",
       "tags": []
     },
     {
@@ -64,6 +184,16 @@
       "tags": []
     },
     {
+      "date": "2026-09-22",
+      "agent": "doubao",
+      "source_type": "社区",
+      "source_name": "HN: ByteDance/Doubao/Coze",
+      "title": "Flomo: A two-person notes app from China that bought a product from ByteDance",
+      "url": "https://www.sinosphere.app/p/flomo-two-people-one-text-box-and",
+      "summary": "Article URL: https://www.sinosphere.app/p/flomo-two-people-one-text-box-and Comments URL: https://news.ycombinator.com/item?id=49797185 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
       "date": "2026-09-20",
       "agent": "codex",
       "source_type": "官方博客",
@@ -81,6 +211,16 @@
       "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
       "url": "https://openai.com/index/hex-gpt-6-astra",
       "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-20",
+      "agent": "doubao",
+      "source_type": "社区",
+      "source_name": "HN: ByteDance/Doubao/Coze",
+      "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+      "url": "https://github.com/BytedTsinghua-SIA/DAPO",
+      "summary": "Article URL: https://github.com/BytedTsinghua-SIA/DAPO Comments URL: https://news.ycombinator.com/item?id=49781138 Points: 20 # Comments: 2",
       "tags": []
     },
     {
