@@ -1,8 +1,108 @@
 {
   "schema": "1.0",
-  "updated": "2026-09-26",
+  "updated": "2026-09-28",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
+    {
+      "date": "2026-09-28",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: ParkourNote – A research workspace, built solo in a month with Claude",
+      "url": "https://note.parkourlabs.io/",
+      "summary": "Hi HN, I'm sushi. I built ParkourNote, a personal knowledge management app that currently focuses on research: finding papers, reading PDFs, asking AI about them, and writing. A few things it does: Describe a topic, and an agent creates a project, searches arXiv, and imports rele",
+      "tags": []
+    },
+    {
+      "date": "2026-09-27",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: Agenttab – Status Icons for Claude Code, Codex and OpenCode Tabs",
+      "url": "https://github.com/marciob/agenttab",
+      "summary": "Article URL: https://github.com/marciob/agenttab Comments URL: https://news.ycombinator.com/item?id=49871923 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-27",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: Has Anthropic been nerfing their models without disclosure",
+      "url": "https://github.com/ninjahawk/livenerf",
+      "summary": "Article URL: https://github.com/ninjahawk/livenerf Comments URL: https://news.ycombinator.com/item?id=49871819 Points: 3 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-27",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Did Anthropic's A.I. Really Make a Scientific Discovery on Its Own?",
+      "url": "https://www.nytimes.com/2026/09/27/science/anthropic-biology-enzyme-mestre.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/09/27/science/anthropic-biology-enzyme-mestre.html Comments URL: https://news.ycombinator.com/item?id=49870911 Points: 3 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-09-27",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Anthropic is a supply chain risk for all of us",
+      "url": "https://building138.com/anthropic-is-a-supply-chain-risk-for-all-of-us",
+      "summary": "Article URL: https://building138.com/anthropic-is-a-supply-chain-risk-for-all-of-us Comments URL: https://news.ycombinator.com/item?id=49870695 Points: 3 # Comments: 2",
+      "tags": []
+    },
+    {
+      "date": "2026-09-27",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: AstraBox – an open-source alternative to Claude Managed Agents",
+      "url": "https://github.com/Colton-z/AstraBox",
+      "summary": "Article URL: https://github.com/Colton-z/AstraBox Comments URL: https://news.ycombinator.com/item?id=49870517 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-27",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Trump and Anthropic CEO Dario Amodei Set for White House Dinner",
+      "url": "https://www.wsj.com/tech/ai/trump-and-anthropic-ceo-dario-amodei-set-for-white-house-dinner-32c2d0ab",
+      "summary": "Article URL: https://www.wsj.com/tech/ai/trump-and-anthropic-ceo-dario-amodei-set-for-white-house-dinner-32c2d0ab Comments URL: https://news.ycombinator.com/item?id=49870436 Points: 3 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-27",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Anthropic CEO Amodei set to meet with Trump",
+      "url": "https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html Comments URL: https://news.ycombinator.com/item?id=49870423 Points: 6 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-27",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: Boonful – Claude Code can publish and sell what it builds",
+      "url": "https://boonful.io",
+      "summary": "Article URL: https://boonful.io Comments URL: https://news.ycombinator.com/item?id=49869937 Points: 2 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-09-27",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Claude Pop – I'm Upping My P(Doom) [video]",
+      "url": "https://www.youtube.com/watch?v=8j-hR4fJywU",
+      "summary": "Article URL: https://www.youtube.com/watch?v=8j-hR4fJywU Comments URL: https://news.ycombinator.com/item?id=49869870 Points: 2 # Comments: 0",
+      "tags": []
+    },
     {
       "date": "2026-09-26",
       "agent": "claude",
