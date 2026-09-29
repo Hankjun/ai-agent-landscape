@@ -1,8 +1,58 @@
 {
   "schema": "1.0",
-  "updated": "2026-09-28",
+  "updated": "2026-09-29",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
+    {
+      "date": "2026-09-29",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "summary": "OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-29",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-29",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Are you a Codex Original?",
+      "url": "https://openai.com/form/codex-originals",
+      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-29",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "tags": []
+    },
+    {
+      "date": "2026-09-29",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "summary": "",
+      "tags": []
+    },
     {
       "date": "2026-09-28",
       "agent": "claude",
@@ -11,6 +61,36 @@
       "title": "Show HN: ParkourNote – A research workspace, built solo in a month with Claude",
       "url": "https://note.parkourlabs.io/",
       "summary": "Hi HN, I'm sushi. I built ParkourNote, a personal knowledge management app that currently focuses on research: finding papers, reading PDFs, asking AI about them, and writing. A few things it does: Describe a topic, and an agent creates a project, searches arXiv, and imports rele",
+      "tags": []
+    },
+    {
+      "date": "2026-09-28",
+      "agent": "doubao",
+      "source_type": "社区",
+      "source_name": "HN: ByteDance/Doubao/Coze",
+      "title": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips",
+      "url": "https://www.reuters.com/business/retail-consumer/china-weighs-allowing-bytedance-alibaba-buy-new-nvidia-chips-information-reports-2026-09-27/",
+      "summary": "Article URL: https://www.reuters.com/business/retail-consumer/china-weighs-allowing-bytedance-alibaba-buy-new-nvidia-chips-information-reports-2026-09-27/ Comments URL: https://news.ycombinator.com/item?id=49875844 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-28",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "Show HN: Short film made using MiniMax H3 on my home PC",
+      "url": "https://chrisbeach.co.uk/space-adventure/",
+      "summary": "Article URL: https://chrisbeach.co.uk/space-adventure/ Comments URL: https://news.ycombinator.com/item?id=49879513 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-28",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "MiniMax M3.1-Flash-Preview",
+      "url": "https://twitter.com/MiniMaxAgent/status/2104079819881517400",
+      "summary": "Article URL: https://twitter.com/MiniMaxAgent/status/2104079819881517400 Comments URL: https://news.ycombinator.com/item?id=49872222 Points: 1 # Comments: 0",
       "tags": []
     },
     {
@@ -741,6 +821,16 @@
       "title": "MiniMax H3 Max Prompts",
       "url": "https://github.com/VulcanEon/awesome-minimax-h3-max-prompts",
       "summary": "Article URL: https://github.com/VulcanEon/awesome-minimax-h3-max-prompts Comments URL: https://news.ycombinator.com/item?id=49724101 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-09-16",
+      "agent": "yuanbao",
+      "source_type": "社区",
+      "source_name": "HN: Tencent/Hunyuan",
+      "title": "Browser Automation Skill from Tencent",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "summary": "Article URL: https://github.com/Tencent/BrowserSkill Comments URL: https://news.ycombinator.com/item?id=49726243 Points: 2 # Comments: 0",
       "tags": []
     },
     {
