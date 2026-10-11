@@ -1,8 +1,378 @@
 {
   "schema": "1.0",
-  "updated": "2026-09-30",
+  "updated": "2026-10-11",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
+    {
+      "date": "2026-10-11",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Ask Claude Code for a Svelte table and it writes 1k lines of its own",
+      "url": "https://svgrid.com/blog/ai-assistant-writes-its-own-table/",
+      "summary": "Article URL: https://svgrid.com/blog/ai-assistant-writes-its-own-table/ Comments URL: https://news.ycombinator.com/item?id=50040262 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "AI Layer – Claude Code Plugins with DuckDB Memory and CI Workflows",
+      "url": "https://gitlab.com/kriscodes2-claude-plugins/ai-layer",
+      "summary": "Article URL: https://gitlab.com/kriscodes2-claude-plugins/ai-layer Comments URL: https://news.ycombinator.com/item?id=50039548 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "url": "https://www.bbc.com/news/articles/cqkg50j1yd5lo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cqkg50j1yd5lo Comments URL: https://news.ycombinator.com/item?id=50039318 Points: 6 # Comments: 4",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: Littleguys – Claude Code, Codex and OpenClaw agents in your menu bar",
+      "url": "https://littleguys.hervalicio.us",
+      "summary": "Article URL: https://littleguys.hervalicio.us Comments URL: https://news.ycombinator.com/item?id=50038883 Points: 15 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Anthropic asks users to stop being mean to Claude",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218",
+      "summary": "Article URL: https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218 Comments URL: https://news.ycombinator.com/item?id=50038865 Points: 46 # Comments: 49",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
+      "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
+      "summary": "Article URL: https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6 Comments URL: https://news.ycombinator.com/item?id=50038383 Points: 57 # Comments: 114",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses Your Production Agent",
+      "url": "https://developers.googleblog.com/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent/",
+      "summary": "How do you keep improving an AI agent after the first 80%, once it serves real production traffic and silent quality regressions return HTTP 200 OK? We are open-sourcing AQuA (Ambient Quality Agent), a reference implementation that runs beside your production agent in Google Clou",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "ML Drift: Next-Gen GPU AI/ML Inference at the Edge",
+      "url": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
+      "summary": "Google AI Edge has introduced ML Drift, a high-performance, universal GPU compute framework designed to accelerate on-device AI and machine learning inference. By abstracting the complexities of hardware and low-level APIs—including OpenGL ES, OpenCL, Metal, and WebGPU—ML Drift e",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Supercharge your development with the Google Developer Knowledge API ecosystem",
+      "url": "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/",
+      "summary": "Google is launching the Developer Knowledge API and MCP Server in public preview. This new toolset provides a canonical, machine-readable way for AI assistants and agentic platforms to search and retrieve up-to-date documentation across Firebase, Google Cloud, Android, and more. ",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Bring multimodal semantic search to the edge with EmbeddingGemma 2",
+      "url": "https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2/",
+      "summary": "EmbeddingGemma 2 is a new 740M open-weight multimodal model that maps text, images, video, and audio into a unified vector space for privacy-first, on-device retrieval. Developers can easily integrate these capabilities cross-platform using MediaPipe Tasks or optimize fine-graine",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "EmbeddingGemma 2: The Developer Guide",
+      "url": "https://developers.googleblog.com/embeddinggemma-2-the-developer-guide/",
+      "summary": "EmbeddingGemma 2 is a compact, open-source multimodal embedding model that maps text, code, images, video, and audio into a unified 768-dimensional space. Developers can use the sentence-transformers library to selectively load modular modality encoders—ranging from 270M to 740M ",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Accelerating Spatio-Temporal Attention for Video Diffusion on TPUs",
+      "url": "https://developers.googleblog.com/accelerating-spatio-temporal-attention-for-video-diffusion-on-tpus/",
+      "summary": "To address the quadratic latency bottleneck of self-attention in high-resolution video diffusion models, developers implemented Sparse VideoGen (SVG) to dynamically route attention heads to highly structured spatial or temporal sparse masks. Translating this algorithmic sparsity ",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "url": "https://openai.com/index/radisson",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Impactful scheduling for GPU clusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "The model that didn't exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Multimodal open d1 decision models for the edge",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Introducing Falcon ASR",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-10-11",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-10-10",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+      "summary": "Article URL: https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/ Comments URL: https://news.ycombinator.com/item?id=50037299 Points: 31 # Comments: 8",
+      "tags": []
+    },
+    {
+      "date": "2026-10-10",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "I bet AI would invent its own language; Claude Opus's survived every copy",
+      "url": "https://claude.ai/artifact/KNR1u48RyraRAy6hi64wc8",
+      "summary": "Article URL: https://claude.ai/artifact/KNR1u48RyraRAy6hi64wc8 Comments URL: https://news.ycombinator.com/item?id=50037145 Points: 2 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-10-10",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Is AI conscious? Anthropic says 'maybe'",
+      "url": "https://www.machinesociety.ai/p/why-anthropic-thinks-claude-might",
+      "summary": "Article URL: https://www.machinesociety.ai/p/why-anthropic-thinks-claude-might Comments URL: https://news.ycombinator.com/item?id=50036695 Points: 3 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-10-10",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
+      "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
+      "summary": "Article URL: https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/ Comments URL: https://news.ycombinator.com/item?id=50035550 Points: 41 # Comments: 35",
+      "tags": []
+    },
+    {
+      "date": "2026-10-07",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "Introducing Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "summary": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-02",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "The latest AI news we announced in September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "summary": "Here are Google’s latest AI updates from September 2026",
+      "tags": []
+    },
     {
       "date": "2026-09-30",
       "agent": "codex",
