@@ -1,8 +1,338 @@
 {
   "schema": "1.0",
-  "updated": "2026-10-11",
+  "updated": "2026-10-16",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
+    {
+      "date": "2026-10-16",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: PocketConsole – Run Claude Code on your own server from your iPhone",
+      "url": "https://apps.apple.com/us/app/pocketconsole-code-from-phone/id6818196856",
+      "summary": "Article URL: https://apps.apple.com/us/app/pocketconsole-code-from-phone/id6818196856 Comments URL: https://news.ycombinator.com/item?id=50120118 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "What it took to trust a package manager Claude wrote",
+      "url": "https://getjpm.sh/blog/building-jpm/",
+      "summary": "Article URL: https://getjpm.sh/blog/building-jpm/ Comments URL: https://news.ycombinator.com/item?id=50119896 Points: 1 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Claude finds people for you and talks to them",
+      "url": "https://lamoom.com/",
+      "summary": "Article URL: https://lamoom.com/ Comments URL: https://news.ycombinator.com/item?id=50119451 Points: 2 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: Gent, email a task to Codex or Claude Code",
+      "url": "https://thecompound.tech",
+      "summary": "Article URL: https://thecompound.tech Comments URL: https://news.ycombinator.com/item?id=50119305 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Redesigning Source Control at Anthropic",
+      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+      "summary": "Article URL: https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50118863 Points: 29 # Comments: 38",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: Context-tax – what Claude Code sends before you type a word",
+      "url": "https://github.com/gethrbr/context-tax",
+      "summary": "Article URL: https://github.com/gethrbr/context-tax Comments URL: https://news.ycombinator.com/item?id=50117929 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Claude Code vs. Codex CLI vs. Aider vs. OpenCode vs. Pi vs. Cursor",
+      "url": "https://thoughts.jock.pl/p/ai-coding-harness-agents-2026",
+      "summary": "Article URL: https://thoughts.jock.pl/p/ai-coding-harness-agents-2026 Comments URL: https://news.ycombinator.com/item?id=50117908 Points: 4 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Show HN: Paveo – Check Claude Code, Codex and Cursor commands before they run",
+      "url": "https://github.com/paveo-dev/paveo",
+      "summary": "Article URL: https://github.com/paveo-dev/paveo Comments URL: https://news.ycombinator.com/item?id=50117874 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "Employee-like access to METR by Anthropic for 3rd party assessment",
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "summary": "Article URL: https://www.anthropic.com/news/an-update-on-independent-evaluators Comments URL: https://news.ycombinator.com/item?id=50116842 Points: 2 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "claude",
+      "source_type": "社区",
+      "source_name": "HN: Anthropic/Claude",
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "summary": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50116568 Points: 2 # Comments: 2",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Announcing DPoP Support for Google OAuth: Securing Refresh Tokens",
+      "url": "https://developers.googleblog.com/announcing-dpop-support-for-google-oauth-securing-refresh-tokens/",
+      "summary": "Google OAuth Platform now supports DPoP (Demonstrating Proof-of-Possession) to sender-constrain refresh tokens, neutralizing Infostealer malware and adversary-in-the-middle attacks. By cryptographically binding long-lived refresh tokens while maintaining short-lived access tokens",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Three layers, one repo: a tour of google/adk-recipes",
+      "url": "https://developers.googleblog.com/three-layers-one-repo-a-tour-of-googleadk-recipes/",
+      "summary": "The google/adk-recipes repository unifies Agent Development Kit (ADK) resources into three structured layers—core/, plugins/, and contrib/—serving as a single source of truth for building AI agents. Developers can leverage reference patterns, install modular vertical skills (such",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Evaluating AI agents: moving past the vibe check",
+      "url": "https://developers.googleblog.com/evaluating-ai-agents-moving-past-the-vibe-check/",
+      "summary": "A practical engineering guide and reference architecture for establishing continuous evaluation pipelines for multi-turn AI agents using Gemini Enterprise Agent Platform, Google ADK, and OpenInference standards.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Announcing MCP support in Apigee hybrid: agentic tools that run in your own cluster",
+      "url": "https://developers.googleblog.com/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/",
+      "summary": "Apigee hybrid 1.17.0 introduces native Model Context Protocol (MCP) support, enabling the MCP data plane to run directly within your own Kubernetes cluster. This architecture ensures that AI agent request traffic and tool execution remain entirely inside your infrastructure while",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Gemini 4 Argon for Robotics",
+      "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+      "summary": "Gemini 4 Argon is a general-purpose physical reasoning model designed to enhance workflows across the robotics stack with advanced capabilities in physical understanding, code generation, and visual-semantic reasoning. Developers can access and integrate Argon across Google's dev",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+      "url": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/",
+      "summary": "How our engineering team ran Gemini 4 Argon unattended overnight with .agents/skills and /goal mode to cut in-memory session prep overhead by 40% in long sessions and speed up cold imports by 21% in Google's open-source Python Agent Development Kit (ADK).",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Teaching students to think and learn through questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "url": "https://openai.com/index/sentinelone",
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "The EU’s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "url": "https://huggingface.co/blog/flux-3",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-10-16",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-10-13",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+      "tags": []
+    },
     {
       "date": "2026-10-11",
       "agent": "claude",
