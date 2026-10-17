@@ -1,64 +1,80 @@
 # AI Agent 全景地图
 
-跟踪全网 AI Agent 智能体的全景地图站：**Landscape 可视化 → 资讯时间轴 → 每 Agent 知识库** 三位一体。
+面向 AI 产品开发者与研究者，把分散的智能体产品、资讯和学习资料组织成一个可浏览的入口。
 
-## 当前跟踪对象（9 个首批）
+**[在线体验](https://hankjun.github.io/ai-agent-landscape/)** · [报告问题](https://github.com/Hankjun/ai-agent-landscape/issues)
 
-| Agent | 公司 | 阵营 |
-|---|---|---|
-| Claude | Anthropic | 前沿实验室 · 美国 |
-| Gemini | Google | 前沿实验室 · 美国 |
-| Codex | OpenAI | 前沿实验室 · 美国 |
-| 豆包 | 字节跳动 | 中国大厂 · 生态矩阵 |
-| 通义千问 | 阿里云 | 中国大厂 · 生态矩阵 |
-| 腾讯元宝 | 腾讯 | 中国大厂 · 生态矩阵 |
-| Kimi | 月之暗面 | 中国新锐 · 模型驱动 |
-| MiniMax | MiniMax | 中国新锐 · 模型驱动 |
-| Hermes Agent | Nous Research | 开源 · 独立系 |
+AI Agent landscape, news timeline and knowledge hub, built with vanilla JavaScript and JSON.
 
-> 架构为数据驱动，新增 Agent 只需在 `data/agents.json` 加一条 + 新建 `knowledge/<id>.md`，全景图/时间轴/知识库自动扩展。
+## 可以做什么
 
-## 目录结构
+- **全景图**：按阵营查看 Agent 节点，打开产品官网、文档与知识库。
+- **资讯时间轴**：按 Agent 和来源类型筛选资讯，保留原文链接。
+- **知识库**：浏览每个 Agent 的 Markdown 学习资料和信息源。
+- **数据维护**：通过 JSON 文件维护产品目录，通过 Python 脚本采集 RSS 资讯。
 
-```
-├── index.html            # 单页应用（三视图）
-├── assets/
-│   ├── styles.css        # 设计系统（深灰 #0c0c0e + 紫罗兰 #8B5CF6）
-│   └── app.js            # 逻辑（SVG 全景图 / 时间轴 / 知识库渲染）
-├── data/
-│   ├── agents.json       # Agent 元数据 + Landscape 坐标 + 阵营
-│   ├── news.json         # 时间轴资讯（按日期倒序）
-│   └── sources.json      # 每 Agent 推荐信息源（priority 1=必追）
-├── knowledge/
-│   └── <agent-id>.md     # 每 Agent 知识库（教程 + Challenge + 信息源）
-└── scripts/
-    └── fetch_news.py     # RSS 采集 → 更新 news.json（配合 cron）
-```
+当前目录包含 Claude、Gemini、Codex、豆包、通义千问、腾讯元宝、Kimi、MiniMax 和 Hermes Agent。产品信息以数据文件中的更新时间为准。
 
-## 更新机制
+## 快速开始
 
-### 1. 新增/修改 Agent
-编辑 `data/agents.json`（位置/阵营/特性），新增知识库文件 `knowledge/<id>.md`。
-
-### 2. 时间轴资讯（半自动）
-```bash
-# 抓取所有 RSS 信息源，合并去重后写入 data/news.json
-python3 scripts/fetch_news.py
-```
-已在 Hermes 配置定时任务（cron）自动执行。
-
-### 3. 部署（GitHub Pages）
-```bash
-git add -A && git commit -m "update" && git push
-```
-
-## 本地预览
+需要 Git 和 Python 3。前端无需 Node.js、构建步骤或模型 API Key。
 
 ```bash
-cd "AI-Agent全景地图" && python3 -m http.server 8877
-# 打开 http://localhost:8877
+git clone https://github.com/Hankjun/ai-agent-landscape.git
+cd ai-agent-landscape
+python3 -m http.server 8877 --bind 127.0.0.1
 ```
 
-## 设计语言
+打开 [http://localhost:8877](http://localhost:8877)。请使用 HTTP 服务访问，前端通过 `fetch()` 读取 JSON 和 Markdown 文件。
 
-深灰近黑底（#0c0c0e）· 紫罗兰单主色（#8B5CF6）· Inter 无衬线 · 薄边框 · 无边阴影/渐变/玻璃态 · 留白宽松。
+## 项目结构
+
+| 路径 | 用途 |
+| --- | --- |
+| `index.html` | 页面入口 |
+| `assets/app.js` | SVG 全景图、时间轴与知识库交互 |
+| `assets/styles.css` | 页面样式 |
+| `data/agents.json` | Agent 元数据、阵营和节点坐标 |
+| `data/news.json` | 资讯条目 |
+| `data/sources.json` | 前端展示的信息源目录 |
+| `knowledge/*.md` | 每个 Agent 的知识库 |
+| `scripts/fetch_news.py` | RSS 采集、去重和数据更新 |
+
+## 更新资讯
+
+采集脚本使用 Python 标准库和系统 `curl`，需要能够访问对应 RSS 站点。
+
+```bash
+# 先查看单个 Agent 的采集结果，不写入数据
+python3 scripts/fetch_news.py --agent claude --limit 5 --dry-run
+
+# 确认后写入 data/news.json
+python3 scripts/fetch_news.py --agent claude --limit 5
+```
+
+- RSS 抓取配置在脚本的 `RSS_FEEDS` 中；修改 `data/sources.json` 不会自动改变采集配置。
+- 采集按 URL 去重。部分来源是社区聚合，相关性和摘要需要人工检查。
+- 更新资讯不会同步更新 `agents.json` 的产品资料或知识库内容。
+- 定时执行需要在自己的运行环境配置；克隆仓库不会获得维护者环境中的定时任务。
+- 部署时，先检查 `git diff`，再提交并推送。脚本的 `--deploy` 会执行 Git 提交与推送。
+
+## 新增 Agent
+
+1. 在 `data/agents.json` 的 `agents` 数组增加条目，保持 ID 唯一、阵营 ID 有效。
+2. 新建 `knowledge/<id>.md`，补充官方资料、学习路径和实战记录。
+3. 在 `data/sources.json` 增加展示信息源；如需自动采集，再修改 `RSS_FEEDS`。
+4. 本地检查全景图节点、资讯筛选和知识库能否正常打开。
+
+新增阵营时还需同步修改 `assets/app.js` 中的 `REGIONS` 布局配置。
+
+## 当前范围与后续方向
+
+这是静态信息导航和研究整理项目。目录同时覆盖通用助手、编程 Agent 与 Agent 平台，分类用于导航，不代表统一基准测试或能力排名。采集结果也不等于全部资讯。
+
+后续可优先完善数据校验、来源失效提示、更新时间一致性和移动端体验。
+
+## 反馈与贡献
+
+欢迎通过 Issue 提交失效链接、资料更正和收录建议。请附上原始来源、相关 Agent 和发现日期。提交 PR 时说明修改的数据文件及本地验证结果。
+
+维护者：[Hank / 汉克](https://github.com/Hankjun)。
