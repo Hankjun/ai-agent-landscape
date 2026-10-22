@@ -1,8 +1,348 @@
 {
   "schema": "1.0",
-  "updated": "2026-10-17",
+  "updated": "2026-10-22",
   "note": "时间轴资讯条目。source_type: 官方博客/文档/X/公众号/媒体/社区/Challenge。每新增一条按日期倒序插入。",
   "items": [
+    {
+      "date": "2026-10-22",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Powering the Agent Development Lifecycle with any framework, from ADK to LangChain and beyond",
+      "url": "https://developers.googleblog.com/powering-the-agent-development-lifecycle-with-any-framework-from-adk-to-langchain-and-beyond/",
+      "summary": "The Agents CLI Extension System enables developers to use frameworks like LangChain, LangGraph, or custom enterprise stacks while retaining a unified deployment and evaluation workflow. It details a first-party LangChain template that scaffolds, runs, and deploys agents without r",
+      "tags": []
+    },
+    {
+      "date": "2026-10-22",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Unifying Edge AI: How Coral NPU’s open standard brings portable, energy-viable intelligence from model to silicon",
+      "url": "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/",
+      "summary": "Google Research has completed the 32-bit open-source Coral NPU RISC-V architecture with the introduction of its Matrix Execution Unit, which delivers up to 1 TOPS while targeting 10 mW average power for edge inference. Alongside this architecture, the release of the v1.0 open-sou",
+      "tags": []
+    },
+    {
+      "date": "2026-10-22",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Announcing New vLLM and SGLang Inference Engines on TPU",
+      "url": "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu/",
+      "summary": "This post announces native PyTorch backends for vLLM and SGLang powered by TorchTPU, enabling developers to run and optimize serving workloads using familiar PyTorch tools. Built in collaboration with open-source project maintainers, these engines include optimized TPU kernel imp",
+      "tags": []
+    },
+    {
+      "date": "2026-10-22",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Integrating TorchTPU into TorchTitan and Optimizing Models for TPU",
+      "url": "https://developers.googleblog.com/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu/",
+      "summary": "TorchTPU integrates a native torch.device(\"tpu\") backend directly into PyTorch, allowing developers to train large-scale models on Google Cloud TPUs without rewriting code in JAX. The TorchTitan TPU fork enhances this with production-grade scaling primitives like SimpleFSDP, Grap",
+      "tags": []
+    },
+    {
+      "date": "2026-10-22",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Bringing Visual Graph Debugging to Custom Edge Compilers with Model Explorer",
+      "url": "https://developers.googleblog.com/bringing-visual-graph-debugging-to-custom-edge-compilers-with-model-explorer/",
+      "summary": "Google AI Edge Model Explorer now supports custom compiler intermediate representations and open-source adapters like TOSA, VGF, and PTE for on-device machine learning. Developers can leverage hierarchical graph visualization, split-pane views, and per-node trace overlays to catc",
+      "tags": []
+    },
+    {
+      "date": "2026-10-22",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Step by Step guide: Build a Voice Agent That Never Goes Silent using ADK",
+      "url": "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
+      "summary": "The open-source Agent Development Kit (ADK) and gemini-3.8-live enable developers to build responsive voice agents by implementing non-blocking tools in Python. Developers can use streaming tools to yield progress updates or background execution patterns to keep conversations flu",
+      "tags": []
+    },
+    {
+      "date": "2026-10-22",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google Developers Blog",
+      "title": "Native Model Authoring for Edge with LiteRT Tensor API",
+      "url": "https://developers.googleblog.com/native-model-authoring-for-edge-with-litert-tensor-api/",
+      "summary": "Meet the LiteRT Tensor API: giving developers native C++ control over the model graph to unify end-to-end ML computations on heterogeneous edge hardware.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-22",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "What FDE means at OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "summary": "What forward deployed engineering means at OpenAI",
+      "tags": []
+    },
+    {
+      "date": "2026-10-22",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-22",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-22",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-22",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-22",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-22",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-22",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "url": "https://openai.com/index/cloudflare-cyber",
+      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-22",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-22",
+      "agent": "codex",
+      "source_type": "官方博客",
+      "source_name": "OpenAI Blog",
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-22",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-10-22",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-10-22",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-10-22",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-10-22",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-10-22",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "url": "https://huggingface.co/blog/allenai/fairstress",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-10-22",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "url": "https://huggingface.co/blog/hf-torchtpu",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-10-22",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-10-22",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "MPS in PyTorch 2.15",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-10-22",
+      "agent": "hermes",
+      "source_type": "社区",
+      "source_name": "HuggingFace Blog",
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-10-21",
+      "agent": "gemini",
+      "source_type": "官方博客",
+      "source_name": "Google AI Blog",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-21",
+      "agent": "yuanbao",
+      "source_type": "社区",
+      "source_name": "HN: Tencent/Hunyuan",
+      "title": "ByteDance, Alibaba, Tencent place over $35B worth of Nvidia chip orders",
+      "url": "https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/",
+      "summary": "Article URL: https://www.reuters.com/business/retail-consumer/bytedance-alibaba-tencent-place-over-35-billion-worth-nvidia-chip-orders-2026-10-20/ Comments URL: https://news.ycombinator.com/item?id=50177762 Points: 5 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-10-19",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "MiniMax M3.1 Flash",
+      "url": "https://www.minimax.io/blog/minimax-m31f",
+      "summary": "Article URL: https://www.minimax.io/blog/minimax-m31f Comments URL: https://news.ycombinator.com/item?id=50154561 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-10-19",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "MiniMax M3.1 Flash: Redefining Agent Performance and Cost",
+      "url": "https://news.ycombinator.com/item?id=50153759",
+      "summary": "https://www.minimax.io/blog/minimax-m31f The domain appears to be shadowbanned on Hacker News and this is a major model release that multiple people have tried to submit, so working around that. Comments URL: https://news.ycombinator.com/item?id=50153759 Points: 8 # Comments: 1",
+      "tags": []
+    },
+    {
+      "date": "2026-10-19",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "MiniMax-M3.1-Flash Artificial Analysis Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/minimax-m3-1-flash",
+      "summary": "Article URL: https://artificialanalysis.ai/models/minimax-m3-1-flash Comments URL: https://news.ycombinator.com/item?id=50151775 Points: 8 # Comments: 2",
+      "tags": []
+    },
+    {
+      "date": "2026-10-19",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "MiniMax H3 benchmarks: 40 DiT variants on one RTX 5080, failures included",
+      "url": "https://phasyn.dev/en/benchmarks/",
+      "summary": "Article URL: https://phasyn.dev/en/benchmarks/ Comments URL: https://news.ycombinator.com/item?id=50151602 Points: 1 # Comments: 0",
+      "tags": []
+    },
+    {
+      "date": "2026-10-19",
+      "agent": "minimax",
+      "source_type": "社区",
+      "source_name": "HN: MiniMax",
+      "title": "MiniMax M3.1 Flash: Space Performance and Bunny Speed",
+      "url": "https://twitter.com/MiniMax_AI/status/2112150867868541221",
+      "summary": "Article URL: https://twitter.com/MiniMax_AI/status/2112150867868541221 Comments URL: https://news.ycombinator.com/item?id=50151573 Points: 7 # Comments: 2",
+      "tags": []
+    },
     {
       "date": "2026-10-17",
       "agent": "codex",
@@ -21,6 +361,16 @@
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "tags": []
+    },
+    {
+      "date": "2026-10-17",
+      "agent": "yuanbao",
+      "source_type": "社区",
+      "source_name": "HN: Tencent/Hunyuan",
+      "title": "We found a Tencent agent fleet",
+      "url": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
+      "summary": "Article URL: https://swarmcha.se/posts/chinese-agent-fleet-full-report Comments URL: https://news.ycombinator.com/item?id=50131584 Points: 5 # Comments: 1",
       "tags": []
     },
     {
@@ -341,6 +691,16 @@
       "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
       "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
       "summary": "",
+      "tags": []
+    },
+    {
+      "date": "2026-10-15",
+      "agent": "yuanbao",
+      "source_type": "社区",
+      "source_name": "HN: Tencent/Hunyuan",
+      "title": "Thoughts on \"making contact\" with the Tencent AI agent fleet",
+      "url": "https://twitter.com/GruPiotr/status/2110494758976000004",
+      "summary": "Article URL: https://twitter.com/GruPiotr/status/2110494758976000004 Comments URL: https://news.ycombinator.com/item?id=50100015 Points: 1 # Comments: 0",
       "tags": []
     },
     {
@@ -714,6 +1074,26 @@
       "tags": []
     },
     {
+      "date": "2026-10-06",
+      "agent": "yuanbao",
+      "source_type": "社区",
+      "source_name": "HN: Tencent/Hunyuan",
+      "title": "Octop, a self-hosted AI assistant by Tencent",
+      "url": "https://github.com/TencentCloud/Octop",
+      "summary": "Article URL: https://github.com/TencentCloud/Octop Comments URL: https://news.ycombinator.com/item?id=49976872 Points: 1 # Comments: 3",
+      "tags": []
+    },
+    {
+      "date": "2026-10-06",
+      "agent": "yuanbao",
+      "source_type": "社区",
+      "source_name": "HN: Tencent/Hunyuan",
+      "title": "DeepSeek to Raise at Least $12B in Tencent-Backed Funding",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-06/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding Comments URL: https://news.ycombinator.com/item?id=49974897 Points: 6 # Comments: 1",
+      "tags": []
+    },
+    {
       "date": "2026-10-02",
       "agent": "gemini",
       "source_type": "官方博客",
@@ -721,6 +1101,16 @@
       "title": "The latest AI news we announced in September 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
       "summary": "Here are Google’s latest AI updates from September 2026",
+      "tags": []
+    },
+    {
+      "date": "2026-10-01",
+      "agent": "yuanbao",
+      "source_type": "社区",
+      "source_name": "HN: Tencent/Hunyuan",
+      "title": "Tencent signed a $7B deal to lease 100k AI chips from Oracle",
+      "url": "https://qz.com/tencent-oracle-ai-chips-lease-deal-100126",
+      "summary": "Article URL: https://qz.com/tencent-oracle-ai-chips-lease-deal-100126 Comments URL: https://news.ycombinator.com/item?id=49921884 Points: 3 # Comments: 0",
       "tags": []
     },
     {
